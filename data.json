@@ -1,0 +1,104 @@
+[
+	{
+		"name": "合歡刀削麵館",
+		"latitude": 25.031746,
+		"longitude": 121.518617,
+		"description": "蕃茄煮牛肉麵 100\n\n酸白菜煮牛肉麵 100"
+	},
+	{
+		"name": "石二鍋 信義店",
+		"latitude": 25.0342198,
+		"longitude": 121.5262627,
+		"description": "雪花牛肉 218\n\n單點魷魚 50\n\n滷肉飯 5\n\n冬瓜冰續杯外帶 10"
+	},
+	{
+		"name": "酷爸牛排",
+		"latitude": 25.033003,
+		"longitude": 121.520456,
+		"description": "日式嫩煎牛排定食 200"
+	},
+	{
+		"name": "羅東夜市 烤鮮蠔",
+		"latitude": 24.6755821,
+		"longitude": 121.7689659,
+		"description": "烤鮮蠔 100"
+	},
+	{
+		"name": "無名日式料理",
+		"latitude": 25.041404,
+		"longitude": 121.50459,
+		"description": "營業時間 1630 - 2"
+	},
+	{
+		"name": "Sukiya",
+		"latitude": 25.0278959,
+		"longitude": 121.52156,
+		"description": "24H\n\n翠玉牛丼 99\n\n起司牛丼 99\n\n加點 青菜套餐 30"
+	},
+	{
+		"name": "珍珍",
+		"latitude": 23.478944,
+		"longitude": 120.449788,
+		"description": "營業時間 11 - 4 週二公休\n\n煎魚腸\n\n蚵仔煎\n\n蛤仔湯"
+	},
+	{
+		"name": "源興御香屋",
+		"latitude": 23.479756,
+		"longitude": 120.449362,
+		"description": "紅鑽葡萄柚綠茶"
+	},
+	{
+		"name": "乙級美食",
+		"latitude": 23.5477577,
+		"longitude": 120.472024,
+		"description": "椒鹽煎雞腿飯"
+	},
+	{
+		"name": "貓尾巴",
+		"latitude": 23.476912,
+		"longitude": 120.461008,
+		"description": "烤布蕾"
+	},
+	{
+		"name": "魏姐包心粉圓 台北桂林店",
+		"latitude": 25.0377645,
+		"longitude": 121.5062985,
+		"description": "包心綜合豆花 冰 65"
+	},
+	{
+		"name": "張家清真牛肉麵",
+		"latitude": 25.04575,
+		"longitude": 121.510653,
+		"description": "清燉牛肉麵"
+	},
+	{
+		"name": "大塊牛肉麵",
+		"latitude": 25.039357,
+		"longitude": 121.525667,
+		"description": "清燉牛肉粉絲 140\n\n清燉過橋粉絲 190"
+	},
+	{
+		"name": "阿國鱔魚麵",
+		"latitude": 23.556521,
+		"longitude": 120.429889,
+		"description": "鱔魚麵\n\n豬腳\n\n免費湯"
+	},
+	{
+		"name": "Panos 杭州店",
+		"latitude": 25.0345242,
+		"longitude": 121.5240097,
+		"description": "24H\n\n櫻桃啤酒\n\n白啤酒"
+	},
+	{
+		"name": "佑壽司",
+		"latitude": 23.557165,
+		"longitude": 120.431901,
+		"description": "握壽司\n\n蒸蛋\n\n味噌湯"
+	},
+	{
+		"name": "中正大學員生消費合作社",
+		"latitude": 23.562686,
+		"longitude": 120.469410,
+		"description": "嘉大鮮乳優格 30\n\n12 個特價 330"
+	}
+]
