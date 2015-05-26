@@ -93,7 +93,8 @@
 <script>
 	(function() {
 		var maps = google.maps,
-			event = maps.event;
+			event = maps.event,
+			zIndex = 1000;
 
 		maps.event.addDomListener(window, 'load', function() {
 			var map = new maps.Map(document.getElementById('map-canvas')),
@@ -113,7 +114,8 @@
 				    });
 
 				event.addListener(marker, 'click', function() {
-    				infowindow.open(map, marker);
+					infowindow.setZIndex(++zIndex);
+					infowindow.open(map, marker);
   				});
 
 				latLngBounds.extend(latLng);
@@ -134,9 +136,12 @@
 						    map: map,
 							title: '目前位置',
 							icon: {
-								path: google.maps.SymbolPath.CIRCLE,
-						        strokeColor: 'black',
-						        scale: 8
+								path: 'M 125,5 155,90 245,90 175,145 200,230 125,180 50,230 75,145 5,90 95,90 z',
+								fillColor: 'yellow',
+								fillOpacity: 0.8,
+								scale: 0.12,
+								strokeColor: 'gold',
+								strokeWeight: 2.4
 							},
 							zIndex: 10000
 					    });
@@ -146,7 +151,7 @@
 					});
 
 					map.setCenter(latLng);
-					map.setZoom(17);
+					map.setZoom(14);
 			    });
 			}
 			else {
