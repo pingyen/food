@@ -72,8 +72,10 @@
 		padding-left: 2px;
 	}
 
-	.ad {
-		margin: 8px 12px;
+	body > .ad {
+		display: block;
+		margin: 8px auto;
+		max-width: 1200px;
 	}
 </style>
 <!--[if lt IE 9]>
