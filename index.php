@@ -96,7 +96,7 @@
 <nav>
 	<ul>
 		<li><a href="<?php echo $_SERVER['REQUEST_URI'] ?>" class="current" >列表</a></li>
-		<li><a href="map.php" >地圖</a></li>
+		<li><a href="map" >地圖</a></li>
 	</ul>
 </nav>
 <?php

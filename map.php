@@ -85,8 +85,8 @@
 <h1>食</h1>
 <nav>
 	<ul>
-		<li><a href="<?php echo substr($_SERVER['REQUEST_URI'], 0, -7) ?>" >列表</a></li>
-		<li><a href="map.php" class="current" >地圖</a></li>
+		<li><a href="<?php echo substr($_SERVER['REQUEST_URI'], 0, -3) ?>" >列表</a></li>
+		<li><a href="map" class="current" >地圖</a></li>
 	</ul>
 </nav>
 <div id="map-canvas"></div>
