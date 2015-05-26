@@ -36,7 +36,7 @@
 		"description": "24H\n\n翠玉牛丼 99\n\n起司牛丼 99\n\n加點 青菜套餐 30"
 	},
 	{
-		"name": "珍珍",
+		"name": "珍珍海產粥",
 		"latitude": 23.478944,
 		"longitude": 120.449788,
 		"description": "營業時間 11 - 4 週二公休\n\n煎魚腸\n\n蚵仔煎\n\n蛤仔湯"
@@ -100,5 +100,59 @@
 		"latitude": 23.562686,
 		"longitude": 120.469410,
 		"description": "嘉大鮮乳優格 30\n\n12 個特價 330"
+	},
+	{
+		"name": "麵屋緣",
+		"latitude": 25.030641,
+		"longitude": 121.550133,
+		"description": "沾麵 280 克"
+	},
+	{
+		"name": "IKEA 敦北店",
+		"latitude": 25.052339,
+		"longitude": 121.548571,
+		"description": "肉丸\n\n豬肋排"
+	},
+	{
+		"name": "巧之味",
+		"latitude": 25.041358,
+		"longitude": 121.526816,
+		"description": "干貝水餃"
+	},
+	{
+		"name": "龍記搶鍋麵",
+		"latitude": 25.042057,
+		"longitude": 121.51117,
+		"description": "肉絲麵 加蒜"
+	},
+	{
+		"name": "龍涎居 通化店",
+		"latitude": 25.029498,
+		"longitude": 121.556823,
+		"description": "四物雞 山雞腿\n\n雞肉飯"
+	},
+	{
+		"name": "阿男麻油雞",
+		"latitude": 25.028593,
+		"longitude": 121.506391,
+		"description": "雞腿麵線"
+	},
+	{
+		"name": "臭老闆",
+		"latitude": 25.028139,
+		"longitude": 121.506141,
+		"description": "臭豆腐"
+	},
+	{
+		"name": "特製蒸餃小籠包",
+		"latitude": 25.080347,
+		"longitude": 121.578873,
+		"description": "酸辣湯"
+	},
+	{
+		"name": "英瑛美代子的店",
+		"latitude": 25.0689,
+		"longitude": 121.613928,
+		"description": "雞魯飯"
 	}
 ]
