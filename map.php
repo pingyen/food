@@ -92,7 +92,8 @@
 <div id="map-canvas"></div>
 <script>
 	(function() {
-		var maps = google.maps;
+		var maps = google.maps,
+			event = maps.event;
 
 		maps.event.addDomListener(window, 'load', function() {
 			var map = new maps.Map(document.getElementById('map-canvas')),
@@ -111,15 +112,47 @@
       					title: name
 				    });
 
-  				maps.event.addListener(marker, 'click', function() {
+				event.addListener(marker, 'click', function() {
     				infowindow.open(map, marker);
   				});
 
 				latLngBounds.extend(latLng);
 			});
 
-			map.setCenter(latLngBounds.getCenter());
-			map.fitBounds(latLngBounds);
+
+			var geolocation = navigator.geolocation;
+
+			if (geolocation) {
+			    geolocation.getCurrentPosition(function (position) {
+					var coords = position.coords,
+						latLng = new maps.LatLng(coords.latitude, coords.longitude),
+						infowindow = new maps.InfoWindow({
+						    content: '目前位置'
+						}),
+						marker = new maps.Marker({
+							position: latLng,
+						    map: map,
+							title: '目前位置',
+							icon: {
+								path: google.maps.SymbolPath.CIRCLE,
+						        strokeColor: 'black',
+						        scale: 8
+							},
+							zIndex: 10000
+					    });
+
+					event.addListener(marker, 'click', function() {
+						infowindow.open(map, marker);
+					});
+
+					map.setCenter(latLng);
+					map.setZoom(17);
+			    });
+			}
+			else {
+				map.setCenter(latLngBounds.getCenter());
+				map.fitBounds(latLngBounds);
+			}
 		});
 	})();
 </script>
