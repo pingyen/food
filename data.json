@@ -27,7 +27,7 @@
 		"name": "無名日式料理",
 		"latitude": 25.041404,
 		"longitude": 121.50459,
-		"description": "營業時間 1630 - 2"
+		"description": "營業時間 1630 - 0200"
 	},
 	{
 		"name": "Sukiya",
@@ -39,25 +39,25 @@
 		"name": "珍珍海產粥",
 		"latitude": 23.478944,
 		"longitude": 120.449788,
-		"description": "營業時間 11 - 4 週二公休\n\n煎魚腸\n\n蚵仔煎\n\n蛤仔湯"
+		"description": "營業時間 22 - 4 週二公休\n\n煎魚腸\n\n蚵仔煎\n\n蛤仔湯"
 	},
 	{
 		"name": "源興御香屋",
 		"latitude": 23.479756,
 		"longitude": 120.449362,
-		"description": "紅鑽葡萄柚綠茶"
+		"description": "紅鑽葡萄柚綠茶 65"
 	},
 	{
 		"name": "乙級美食",
 		"latitude": 23.5477577,
 		"longitude": 120.472024,
-		"description": "椒鹽煎雞腿飯"
+		"description": "椒鹽煎雞腿飯 75"
 	},
 	{
 		"name": "貓尾巴",
 		"latitude": 23.476912,
 		"longitude": 120.461008,
-		"description": "烤布蕾"
+		"description": "烤布蕾 30"
 	},
 	{
 		"name": "魏姐包心粉圓 台北桂林店",
@@ -69,7 +69,7 @@
 		"name": "張家清真牛肉麵",
 		"latitude": 25.04575,
 		"longitude": 121.510653,
-		"description": "清燉牛肉麵"
+		"description": "清燉牛肉麵 120"
 	},
 	{
 		"name": "大塊牛肉麵",
@@ -81,7 +81,7 @@
 		"name": "阿國鱔魚麵",
 		"latitude": 23.556521,
 		"longitude": 120.429889,
-		"description": "鱔魚麵\n\n豬腳\n\n免費湯"
+		"description": "鱔魚麵 70\n\n豬腳 100\n\n免費湯"
 	},
 	{
 		"name": "Panos 杭州店",
@@ -99,37 +99,37 @@
 		"name": "中正大學員生消費合作社",
 		"latitude": 23.562686,
 		"longitude": 120.469410,
-		"description": "嘉大鮮乳優格 30\n\n12 個特價 330"
+		"description": "嘉大鮮乳優格 30 一打 330"
 	},
 	{
 		"name": "麵屋緣",
 		"latitude": 25.030641,
 		"longitude": 121.550133,
-		"description": "沾麵 280 克"
+		"description": "沾麵 280 克 280"
 	},
 	{
 		"name": "IKEA 敦北店",
 		"latitude": 25.052339,
 		"longitude": 121.548571,
-		"description": "肉丸\n\n豬肋排"
+		"description": "肉丸 20 顆 180\n\n豬肋排 320"
 	},
 	{
 		"name": "巧之味",
 		"latitude": 25.041358,
 		"longitude": 121.526816,
-		"description": "干貝水餃"
+		"description": "干貝水餃 7 元 / 個"
 	},
 	{
 		"name": "龍記搶鍋麵",
 		"latitude": 25.042057,
 		"longitude": 121.51117,
-		"description": "肉絲麵 加蒜"
+		"description": "肉絲麵 加蒜 小 90 大 120"
 	},
 	{
 		"name": "龍涎居 通化店",
 		"latitude": 25.029498,
 		"longitude": 121.556823,
-		"description": "四物雞 山雞腿\n\n雞肉飯"
+		"description": "四物雞 山雞腿 180\n\n雞肉飯 40"
 	},
 	{
 		"name": "阿男麻油雞",
@@ -154,5 +154,17 @@
 		"latitude": 25.0689,
 		"longitude": 121.613928,
 		"description": "雞魯飯"
+	},
+	{
+		"name": "順水推粥",
+		"latitude": 25.068791,
+		"longitude": 121.613237,
+		"description": "海鮮粥\n\n廣東粥"
+	},
+	{
+		"name": "美星麵館",
+		"latitude": 25.0365065,
+		"longitude": 121.5247741,
+		"description": "肉絲炒飯 60\n\n嘴邊肉 50"
 	}
 ]
