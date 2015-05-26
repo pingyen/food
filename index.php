@@ -50,7 +50,7 @@
 		font-weight: bold;
 	}
 
-	body > article {
+	body > main > article {
 		background: #FFF;
 		box-shadow: 0 2px 1px rgba(0, 0, 0, 0.3), 0 0 1px rgba(0, 0, 0, 0.3);
 		border-radius: 2px;
@@ -58,18 +58,26 @@
 		padding: 12px;
 	}
 
-	body > article > h2 {
+	body > main > article.hidden {
+		animation: wobble 2s infinite;
+	}
+
+	body > main > article.fadeIn {
+		animation: fadeIn 0.4s;
+	}
+
+	body > main > article > h2 {
 		font-family: cwTeXKai;
 		font-size: 28px;
 		margin: 6px 0 0;
 	}
 
-	body > article > h2 > a {
+	body > main > article > h2 > a {
 		color: #1a0dab;
 		text-decoration: none;
 	}
 
-	body > article > pre {
+	body > main > article > pre {
 		line-height: 1;
 		margin: 12px 0 6px;
 		overflow: visible;
@@ -86,6 +94,25 @@
 			margin-top: 0;
 		}
 	}
+
+	@keyframes fadeIn {
+	    from { opacity: 0; }
+	    to   { opacity: 1; }
+	}
+
+	@keyframes wobble {
+		0%, 100% {
+			transform:
+				rotateX(8.75deg)
+				rotateY(35deg);
+		}
+		50% {
+			transform:
+				rotateX(35deg)
+				rotateY(-35deg)
+				rotate(180deg);
+		}
+	}
 </style>
 <!--[if lt IE 9]>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv-printshiv.min.js" ></script>
@@ -99,6 +126,7 @@
 		<li><a href="map" >地圖</a></li>
 	</ul>
 </nav>
+<main>
 <?php
 	$data = json_decode(file_get_contents('data.json'), true);
 
@@ -110,13 +138,59 @@
 		$name = $item['name'];
 		$name2 = urlencode($name);
 ?>
-<article>
-	<h2><a href="https://www.google.com.tw/search?q=<?php echo $name2 ?>" target="_blank" ><?php echo $name ?></a></h2>
-	<pre><?php echo $item['description'] ?></pre>
-</article>
+	<article class="hidden" data-latitude="<?php echo $item['latitude'] ?>" data-longitude="<?php echo $item['longitude'] ?>" >
+		<h2><a href="https://www.google.com.tw/search?q=<?php echo $name2 ?>" target="_blank" ><?php echo $name ?></a></h2>
+		<pre><?php echo $item['description'] ?></pre>
+	</article>
 <?php
 	}
 ?>
+</main>
+<script>
+	(function() {
+		var geolocation = navigator.geolocation,
+			main = document.getElementsByTagName('main')[0],
+			articles = Array.prototype.slice.call(main.getElementsByTagName('article'));
+
+		if (geolocation) {
+			geolocation.getCurrentPosition(function (position) {
+				var coords = position.coords,
+					latitude = coords.latitude,
+					longitude = coords.longitude;
+
+				articles.forEach(function(article) {
+					article.area = Math.abs(
+							(latitude - article.getAttribute('data-latitude')) *
+							(longitude - article.getAttribute('data-longitude'))
+						);
+				});
+
+				articles.sort(function(a, b) {
+					return a.area - b.area;
+				});
+
+
+				var tokens = [];
+
+				articles.forEach(function(article) {
+					article.className = 'fadeIn';
+					tokens.push(article.outerHTML);
+				});
+
+				main.innerHTML = tokens.join('\n');
+			}, function() {
+				articles.forEach(function(article) {
+					article.className = 'fadeIn';
+				});
+			});
+		}
+		else {
+			articles.forEach(function(article) {
+				article.className = 'fadeIn';
+			});
+		}
+	})();
+</script>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Food Bottom -->
 <ins class="ad adsbygoogle"
