@@ -184,5 +184,17 @@
 		"latitude": 24.990839,
 		"longitude": 121.541726,
 		"description": "4 個 20 元\n\n10 個 50 元"
+	},
+	{
+		"name": "豆腐村 南港店",
+		"latitude": 25.0383919,
+		"longitude": 121.6219879,
+		"description": "海鮮牛肉豆腐煲 307 服務費已加\n\n免費豆腐冰淇淋"
+	},
+	{
+		"name": "紅蜻蜓食事處",
+		"latitude": 25.0295135,
+		"longitude": 121.529812,
+		"description": "雞腿串 3 串 120\n\n烤和牛佐芥末醬 300\n\n奶油干貝 150"
 	}
 ]
