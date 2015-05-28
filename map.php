@@ -123,6 +123,8 @@
 				latLngBounds.extend(latLng);
 			});
 
+			map.setCenter(latLngBounds.getCenter());
+			map.fitBounds(latLngBounds);
 
 			var geolocation = navigator.geolocation;
 
@@ -158,10 +160,6 @@
 					map.setCenter(latLngBounds.getCenter());
 					map.fitBounds(latLngBounds);
 			    });
-			}
-			else {
-				map.setCenter(latLngBounds.getCenter());
-				map.fitBounds(latLngBounds);
 			}
 		});
 	})();
