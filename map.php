@@ -156,9 +156,6 @@
 
 					map.setCenter(latLng);
 					map.setZoom(14);
-			    }, function() {
-					map.setCenter(latLngBounds.getCenter());
-					map.fitBounds(latLngBounds);
 			    });
 			}
 		});
