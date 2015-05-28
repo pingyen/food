@@ -24,7 +24,7 @@
 		"description": "烤鮮蠔 100"
 	},
 	{
-		"name": "無名日式料理",
+		"name": "無名日本料理",
 		"latitude": 25.041404,
 		"longitude": 121.50459,
 		"description": "營業時間 1630 - 0200"
@@ -162,7 +162,7 @@
 		"description": "海鮮粥\n\n廣東粥"
 	},
 	{
-		"name": "美星麵館",
+		"name": "美星麵食館",
 		"latitude": 25.0365065,
 		"longitude": 121.5247741,
 		"description": "肉絲炒飯 60\n\n嘴邊肉 50"
@@ -196,5 +196,53 @@
 		"latitude": 25.0295135,
 		"longitude": 121.529812,
 		"description": "雞腿串 3 串 120\n\n烤和牛佐芥末醬 300\n\n奶油干貝 150"
+	},
+	{
+		"name": "大直 義麵坊",
+		"latitude": 25.082858,
+		"longitude": 121.547137,
+		"description": "海鮮總匯黑墨汁波特酒麵 細麵\n\n培根雞肉大凱薩沙拉\n\n每日湯\n\n冰紅茶\n\n週日公休"
+	},
+	{
+		"name": "南港 義饗家",
+		"latitude": 25.0557201,
+		"longitude": 121.6130672,
+		"description": "香料墨魚汁海鮮麵 120\n\n湯"
+	},
+	{
+		"name": "新光三越南西二館 韓牛村",
+		"latitude": 25.0523038,
+		"longitude": 121.5211048,
+		"description": "銅盤烤肉"
+	},
+	{
+		"name": "餡老滿 南港旗艦店",
+		"latitude": 25.057297,
+		"longitude": 121.61647,
+		"description": "松花皮蛋豬肉水餃\n\n酸辣湯"
+	},
+	{
+		"name": "南港 元珍館",
+		"latitude": 25.055796198211,
+		"longitude": 121.61312657589,
+		"description": "烤肉冬粉 70"
+	},
+	{
+		"name": "南港炒牛肉",
+		"latitude": 25.055708,
+		"longitude": 121.612689,
+		"description": "炒羊肉\n\n旗魚味噌湯"
+	},
+	{
+		"name": "逃花園 南港園區店",
+		"latitude": 25.054982,
+		"longitude": 121.613891,
+		"description": "百香綠茶"
+	},
+	{
+		"name": "富宏牛肉麵",
+		"latitude": 25.047539,
+		"longitude": 121.507751,
+		"description": "24H\n\n牛肉麵 小 80"
 	}
 ]
