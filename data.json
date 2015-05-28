@@ -172,5 +172,17 @@
 		"latitude": 25.015137,
 		"longitude": 121.532902,
 		"description": "當歸鴨 45\n\n營業至午夜"
+	},
+	{
+		"name": "City Milk 五分埔店",
+		"latitude": 25.0486369,
+		"longitude": 121.57988,
+		"description": "木瓜牛奶 60"
+	},
+	{
+		"name": "景美廖家古早味雞蛋糕",
+		"latitude": 24.990839,
+		"longitude": 121.541726,
+		"description": "4 個 20 元\n\n10 個 50 元"
 	}
 ]
