@@ -159,14 +159,22 @@
 					longitude = coords.longitude;
 
 				articles.forEach(function(article) {
-					article.area = Math.abs(
-							(latitude - article.getAttribute('data-latitude')) *
-							(longitude - article.getAttribute('data-longitude'))
-						);
+					article.distance = (function(lat, lng, lat2, lng2) {
+							var dLat = deg2rad(lat2 - lat),
+								dLng = deg2rad(lng2 - lng),
+								a = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.cos(deg2rad(lat)) * Math.cos(deg2rad(lat2)) * Math.sin(dLng / 2) * Math.sin(dLng / 2),
+	  							c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+
+	  						return c *  6371;
+
+							function deg2rad(deg) {
+								return deg * (Math.PI / 180);
+							}
+						})(latitude, longitude, article.getAttribute('data-latitude'), article.getAttribute('data-longitude'));
 				});
 
 				articles.sort(function(a, b) {
-					return a.area - b.area;
+					return a.distance - b.distance;
 				});
 
 
