@@ -144,12 +144,6 @@
 		"description": "臭豆腐"
 	},
 	{
-		"name": "特製蒸餃小籠包",
-		"latitude": 25.080347,
-		"longitude": 121.578873,
-		"description": "酸辣湯"
-	},
-	{
 		"name": "英瑛美代子的店",
 		"latitude": 25.0689,
 		"longitude": 121.613928,
@@ -250,5 +244,23 @@
 		"latitude": 25.034583,
 		"longitude": 121.526605,
 		"description": "米粉湯 20\n\n燙青菜 小 30\n\n嘴邊肉 50\n\n脆骨 30\n\n油豆腐 20"
+	},
+	{
+		"name": "居和熹",
+		"latitude": 25.0813841,
+		"longitude": 121.5793233,
+		"description": "原特製蒸餃小籠包\n\n小籠湯包 90\n\n鮮菜肉蒸餃 70\n\n私房酸辣湯 35"
+	},
+	{
+		"name": "豬大郎豬血糕",
+		"latitude": 25.079891,
+		"longitude": 121.578796,
+		"description": "豬血糕"
+	},
+	{
+		"name": "海角那一邊恆春綠豆蒜",
+		"latitude": 25.0802824,
+		"longitude": 121.5788587,
+		"description": "綠豆蒜冰 45"
 	}
 ]
