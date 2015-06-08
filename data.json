@@ -262,5 +262,11 @@
 		"latitude": 25.0802824,
 		"longitude": 121.5788587,
 		"description": "綠豆蒜冰 45"
+	},
+	{
+		"name": "東區木瓜牛奶",
+		"latitude": 25.0447279,
+		"longitude": 121.5167407,
+		"description": "木瓜牛奶 60"
 	}
 ]
