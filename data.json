@@ -280,5 +280,11 @@
 		"latitude": 25.048266,
 		"longitude": 121.507648,
 		"description": "24H\n\n綜合麵 小 80 可加湯"
+	},
+	{
+		"name": "揚屋日本料理",
+		"latitude": 25.0828129,
+		"longitude": 121.5470379,
+		"description": "鮮蚵鹽燒 180\n\n鍋燒烏龍麵 150"
 	}
 ]

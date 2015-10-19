@@ -110,9 +110,9 @@
 					    content: '<h2><a href="https://www.google.com.tw/search?q=' + encodeURIComponent(name) + '" target="_blank" >' + name + '</a></h2><pre>' + item.description + '</pre>'
   					}),
 					marker = new maps.Marker({
-      					position: latLng,
-					    map: map,
-      					title: name
+						position: latLng,
+						map: map,
+						title: name
 				    });
 
 				event.addListener(marker, 'click', function() {
