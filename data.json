@@ -286,5 +286,41 @@
 		"latitude": 25.0828129,
 		"longitude": 121.5470379,
 		"description": "鮮蚵鹽燒 180\n\n鍋燒烏龍麵 150"
+	},
+	{
+		"name": "百葉溫州大餛飩",
+		"latitude": 25.1712283,
+		"longitude": 121.4385458,
+		"description": "烤雞腿\n\n餛飩麵\n\n桂花荔枝冰"
+	},
+	{
+		"name": "意麵王",
+		"latitude": 25.0580545,
+		"longitude": 121.5117058,
+		"description": "意麵\n\n三層肉\n\n鯊魚"		
+	},
+	{
+		"name": "老牌豬血湯",
+		"latitude": 25.055974,
+		"longitude": 121.51527,
+		"description": "藥燉排骨\n\n豬血湯"
+	},
+	{
+		"name": "阿忠越式傳統牛肉河粉",
+		"latitude": 25.0557877,
+		"longitude": 121.5149547,
+		"description": "傳統牛肉河粉\n\n越式火腿法國麵包"
+	},
+	{
+		"name": "東石鮮蚵",
+		"latitude": 25.0568448,
+		"longitude": 121.5154129,
+		"description": "鍋燒意麵\n\n綜合煎\n\n綜合炒飯\n\n蛤仔湯\n\n炒高麗菜\n\n炒紅菜"
+	},
+	{
+		"name": "阿華鯊魚烟",
+		"latitude": 25.0606527,
+		"longitude": 121.5124676,
+		"description": "綜合鯊魚烟\n\n醬骨頭\n\n水餃"
 	}
 ]
