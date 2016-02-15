@@ -17,14 +17,14 @@
 
 	h1 {
 		font-family: cwTeXKai;
-		font-size: 120px;
-		margin: 12px 6px;
+		font-size: 42px;
+		margin: 6px 12px;
 	}
 
 	body > nav {
-		left: 120px;
+		left: 64px;
 		position: absolute;
-		top: 72px;
+		top: 12px;
 	}
 
 	body > nav > ul {
@@ -51,7 +51,7 @@
 	}
 
 	#map-canvas {
-		height: 60vh;
+		height: 80vh;
 	}
 
 	#map-canvas h2 {
