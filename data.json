@@ -30,7 +30,7 @@
 		"description": "營業時間 1630 - 0200"
 	},
 	{
-		"name": "Sukiya",
+		"name": "Sukiya 古亭店",
 		"latitude": 25.0278959,
 		"longitude": 121.52156,
 		"description": "24H\n\n翠玉牛丼 99\n\n起司牛丼 99\n\n加點 青菜套餐 30"
@@ -322,5 +322,53 @@
 		"latitude": 25.0606527,
 		"longitude": 121.5124676,
 		"description": "綜合鯊魚烟\n\n醬骨頭\n\n水餃"
+	},
+	{
+		"name": "王家生炒魷魚羹",
+		"latitude": 25.0565,
+		"longitude": 121.5154,
+		"description": "生炒魷魚羹 60"
+	},
+	{
+		"name": "豬肝榮仔",
+		"latitude": 25.0569575,
+		"longitude": 121.5133458,
+		"description": "綜合湯 60"
+	},
+	{
+		"name": "冰哨酪梨牛奶",
+		"latitude": 25.055631942978,
+		"longitude": 121.51517055798,
+		"description": "酪梨牛奶 70"
+	},
+	{
+		"name": "寧夏夜市 鵝肉攤",
+		"latitude": 25.0577667,
+		"longitude": 121.5131235,
+		"description": "下水湯 60"
+	},
+	{
+		"name": "寧夏夜市 焗烤海鮮貝",
+		"latitude": 25.0604752,
+		"longitude": 121.5145073,
+		"description": "小 40 三個 100\n\n大 50 三個 130"
+	},
+	{
+		"name": "富田鐵板燒",
+		"latitude": 25.0391066,
+		"longitude": 121.5236179,
+		"description": "沙朗 椒鹽 170\n\n雞排 椒鹽 180\n\n魚排 清蒸 150"
+	},
+	{
+		"name": "正好鮮肉小籠包 通化店",
+		"latitude": 25.0304334,
+		"longitude": 121.5548067,
+		"description": "小籠包 80\n\n酸辣湯 35"
+	},
+	{
+		"name": "寶記小籠包",
+		"latitude": 25.063516,
+		"longitude": 121.511294,
+		"description": "小籠包 80"
 	}
 ]
