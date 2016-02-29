@@ -370,5 +370,11 @@
 		"latitude": 25.063516,
 		"longitude": 121.511294,
 		"description": "小籠包 80"
+	},
+	{
+		"name": "雞窩",
+		"latitude": 25.0299736,
+		"longitude": 121.551319,
+		"description": "砂鍋土雞湯 小 360 中 1400 大 2400"
 	}
 ]
