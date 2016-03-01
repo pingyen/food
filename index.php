@@ -190,6 +190,12 @@
 				article.className = 'fadeIn';
 			});
 		}
+
+		setTimeout(function() {
+			articles.forEach(function(article) {
+				article.className = '';
+			});
+		}, 5000);
 	})();
 </script>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
