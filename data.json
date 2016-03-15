@@ -18,12 +18,6 @@
 		"description": "日式嫩煎牛排定食 200"
 	},
 	{
-		"name": "羅東夜市 烤鮮蠔",
-		"latitude": 24.6755821,
-		"longitude": 121.7689659,
-		"description": "烤鮮蠔 100"
-	},
-	{
 		"name": "無名日本料理",
 		"latitude": 25.041404,
 		"longitude": 121.50459,
@@ -168,12 +162,6 @@
 		"description": "肉絲炒飯 60\n\n嘴邊肉 50"
 	},
 	{
-		"name": "公館 雞蛋蚵仔煎",
-		"latitude": 25.015137,
-		"longitude": 121.532902,
-		"description": "當歸鴨 45\n\n營業至午夜"
-	},
-	{
 		"name": "City Milk 五分埔店",
 		"latitude": 25.0486369,
 		"longitude": 121.57988,
@@ -208,12 +196,6 @@
 		"latitude": 25.0557201,
 		"longitude": 121.6130672,
 		"description": "香料墨魚汁海鮮麵 120\n\n湯"
-	},
-	{
-		"name": "新光三越南西二館 韓牛村",
-		"latitude": 25.0523038,
-		"longitude": 121.5211048,
-		"description": "銅盤烤肉"
 	},
 	{
 		"name": "餡老滿 南港旗艦店",
