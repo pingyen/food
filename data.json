@@ -382,5 +382,23 @@
 		"latitude": 25.0565642,
 		"longitude": 121.515371,
 		"description": "清燉牛肉麵 拉麵 160\n\n紅燒牛肉麵 拉麵 160"
+	},
+	{
+		"name": "種福園",
+		"latitude": 25.0419898,
+		"longitude": 121.5139058,
+		"description": "斤餅\n\n京醬牛肉絲\n\n炒豆苗"
+	},
+	{
+		"name": "寧夏夜市 林記麻辣臭豆腐",
+		"latitude": 25.056076,
+		"longitude": 121.515345,
+		"description": "鴨血臭豆腐\n\n油炸臭豆腐"
+	},
+	{
+		"name": "穆記牛肉麵",
+		"latitude": 25.0276896,
+		"longitude": 121.5635138,
+		"description": "溏心蛋 40\n\n清燉半筋半肉麵 家常麵 220\n\n紅燒牛肉麵 家常麵 200\n\n斤餅包牛肉 130"
 	}
 ]
