@@ -284,7 +284,7 @@
 	{
 		"name": "寧夏夜市 老牌豬血湯",
 		"latitude": 25.055974,
-		"longitude": 121.51527,
+		"longitude": 121.51525,
 		"description": "藥燉排骨\n\n豬血湯"
 	},
 	{
@@ -320,19 +320,19 @@
 	{
 		"name": "冰哨酪梨牛奶",
 		"latitude": 25.055631942978,
-		"longitude": 121.51517055798,
+		"longitude": 121.51515555798,
 		"description": "酪梨牛奶 70"
 	},
 	{
 		"name": "寧夏夜市 鵝肉攤",
-		"latitude": 25.0577667,
-		"longitude": 121.5131235,
+		"latitude": 25.0568448,
+		"longitude": 121.5155239,
 		"description": "下水湯 60"
 	},
 	{
 		"name": "寧夏夜市 焗烤海鮮貝",
-		"latitude": 25.0604752,
-		"longitude": 121.5145073,
+		"latitude": 25.055631942978,
+		"longitude": 121.51514555798,
 		"description": "小 40 三個 100\n\n大 50 三個 130"
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "寧夏夜市 林記麻辣臭豆腐",
 		"latitude": 25.056076,
-		"longitude": 121.515345,
+		"longitude": 121.515275,
 		"description": "鴨血臭豆腐\n\n油炸臭豆腐"
 	},
 	{
@@ -406,5 +406,17 @@
 		"latitude": 25.059128,
 		"longitude": 121.5139413,
 		"description": "鮭魚邊\n\n鮪魚邊\n\n鮭魚生魚片\n\n鮭魚邊軍艦\n\n星鰻\n\n北極甜蝦\n\n小龍蝦沙拉軍艦"
+	},
+	{
+		"name": "麥食達",
+		"latitude": 25.0429159,
+		"longitude": 121.51394,
+		"description": ""
+	},
+	{
+		"name": "定食 8 南門店",
+		"latitude": 25.0331404,
+		"longitude": 121.5181822,
+		"description": ""
 	}
 ]
