@@ -405,18 +405,30 @@
 		"name": "爭鮮 重慶店",
 		"latitude": 25.059128,
 		"longitude": 121.5139413,
-		"description": "鮭魚邊\n\n鮪魚邊\n\n鮭魚生魚片\n\n鮭魚邊軍艦\n\n星鰻\n\n北極甜蝦\n\n小龍蝦沙拉軍艦"
+		"description": "鮭魚邊\n\n鮪魚邊\n\n鮭魚肚\n\n鮭魚生魚片\n\n鮭魚邊軍艦\n\n星鰻\n\n北極甜蝦\n\n小龍蝦沙拉軍艦"
 	},
 	{
 		"name": "麥食達",
 		"latitude": 25.0429159,
 		"longitude": 121.51394,
-		"description": ""
+		"description": "韓式烤肉套餐\n\n牛排大骨湯黑土鍋\n\n大棗人蔘雞黑土鍋\n\n石頭烤肉定食\n\n免費湯、免費小菜"
 	},
 	{
 		"name": "定食 8 南門店",
 		"latitude": 25.0331404,
 		"longitude": 121.5181822,
-		"description": ""
+		"description": "焗烤扇貝\n\n和風雞唐揚"
+	},
+	{
+		"name": "三元號",
+		"latitude": 25.0545138,
+		"longitude": 121.5144418,
+		"description": "魚翅肉羹\n\n滷肉飯\n\n鯊魚煙"
+	},
+	{
+		"name": "蔡嘉義火雞肉飯",
+		"latitude": 25.056511,
+		"longitude": 121.5152707,
+		"description": "火雞肉飯便當\n\n金針排骨湯"
 	}
 ]
