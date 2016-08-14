@@ -411,7 +411,7 @@
 		"name": "爭鮮 重慶店",
 		"latitude": 25.059128,
 		"longitude": 121.5139413,
-		"description": "鮭魚邊\n\n鮪魚邊\n\n鮭魚肚\n\n鮭魚生魚片\n\n鮭魚邊軍艦\n\n星鰻\n\n北極甜蝦\n\n小龍蝦沙拉軍艦"
+		"description": "鮭魚小菜\n\n鮪魚小菜\n\n鮭魚肚\n\n鮭魚生魚片\n\n鮭魚小菜軍艦\n\n星鰻\n\n北極甜蝦\n\n小龍蝦沙拉軍艦"
 	},
 	{
 		"name": "麥食達",
@@ -442,5 +442,11 @@
 		"latitude": 25.0421657,
 		"longitude": 121.5112846,
 		"description": "梅村套餐 638 服務費已加"
+	},
+	{
+		"name": "寧夏夜市 泰味鮮",
+		"latitude": 25.0562095,
+		"longitude": 121.5154503,
+		"description": "泰式肉絲炒飯\n\n蝦醬炒飯\n\n蝦醬空心菜"
 	}
 ]
