@@ -297,7 +297,7 @@
 		"name": "阿忠越式傳統牛肉河粉",
 		"latitude": 25.0557877,
 		"longitude": 121.5149547,
-		"description": "傳統牛肉河粉\n\n越式火腿法國麵包"
+		"description": "傳統牛肉河粉\n\n越式牛肉炒飯 黃咖哩\n\n越式火腿法國麵包"
 	},
 	{
 		"name": "寧夏夜市 東石鮮蚵",
@@ -466,5 +466,11 @@
 		"latitude": 25.0543948,
 		"longitude": 121.5103525,
 		"description": "米粉湯 35\n\n炸紅燒肉 50"
+	},
+	{
+		"name": "Oxygen O Bar",
+		"latitude": 25.042584,
+		"longitude": 121.513092,
+		"description": "酥炸黃金魚排堡 240\n\n啤酒 200"
 	}
 ]
