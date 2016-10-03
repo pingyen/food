@@ -472,5 +472,11 @@
 		"latitude": 25.042584,
 		"longitude": 121.513092,
 		"description": "酥炸黃金魚排堡 240\n\n啤酒 200"
+	},
+	{
+		"name": "嘉義鮑魚海產粥",
+		"latitude": 25.066935,
+		"longitude": 121.511086,
+		"description": "鮑魚海產粥 70"
 	}
 ]
