@@ -472,5 +472,23 @@
 		"latitude": 25.066935,
 		"longitude": 121.511086,
 		"description": "鮑魚海產粥 70"
+	},
+	{
+		"name": "香連鐵板燒",
+		"latitude": 25.0547484,
+		"longitude": 121.5147936,
+		"description": "去骨雞腿 原煎 套餐 290"
+	},
+	{
+		"name": "周照子鐵板燒",
+		"latitude": 25.057392,
+		"longitude": 121.517595,
+		"description": "去骨土雞腿 原煎 套餐 290"
+	},
+	{
+		"name": "重慶北路 嘉義雞肉飯",
+		"latitude": 25.052016,
+		"longitude": 121.5141,
+		"description": "骨仔肉\n\n雞肉飯\n\n豬皮"
 	}
 ]
