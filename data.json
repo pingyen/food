@@ -490,5 +490,11 @@
 		"latitude": 25.052016,
 		"longitude": 121.5141,
 		"description": "骨仔肉\n\n雞肉飯\n\n豬皮"
+	},
+	{
+		"name": "Hadron 雞蛋糕",
+		"latitude": 25.0567037,
+		"longitude": 121.5155093,
+		"description": "雞蛋糕 大份"
 	}
 ]
