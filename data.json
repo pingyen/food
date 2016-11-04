@@ -532,5 +532,17 @@
 		"latitude": 25.0539009,
 		"longitude": 121.5133307,
 		"description": "石頭火鍋 牛"
+	},
+	{
+		"name": "寧夏夜市 小漁夫",
+		"latitude": 25.0564095,
+		"longitude": 121.5154284,
+		"description": "烤生蠔 小 10 顆 100"
+	},
+	{
+		"name": "寧夏夜市 瑪拉桑",
+		"latitude": 25.0566755,
+		"longitude": 121.5154771,
+		"description": "雞肉串 3 串 100"
 	}
 ]
