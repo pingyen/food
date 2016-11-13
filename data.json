@@ -544,5 +544,11 @@
 		"latitude": 25.0566755,
 		"longitude": 121.5154771,
 		"description": "雞肉串 3 串 100"
+	},
+	{
+		"name": "寧夏夜市 明太子醬烤墨魚飯",
+		"latitude": 25.055990,
+		"longitude": 121.515258,
+		"description": "明太子醬烤墨魚飯 150"
 	}
 ]
