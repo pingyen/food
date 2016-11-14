@@ -550,5 +550,11 @@
 		"latitude": 25.055990,
 		"longitude": 121.515258,
 		"description": "明太子醬烤墨魚飯 150"
+	},
+	{
+		"name": "雅米花生捲冰淇淋 寧夏店",
+		"latitude": 25.055824, 
+		"longitude": 121.515235,
+		"description": "花生捲冰淇淋 一份 45 三份 120"
 	}
 ]
