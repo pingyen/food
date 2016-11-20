@@ -556,5 +556,17 @@
 		"latitude": 25.055824, 
 		"longitude": 121.515235,
 		"description": "花生捲冰淇淋 一份 45 三份 120"
+	},
+	{
+		"name": "台灣塩酥雞",
+		"latitude": 25.0797556,
+		"longitude": 121.5466223,
+		"description": "雞心 雞胗 章魚腳"
+	},
+	{
+		"name": "愛弟豆花",
+		"latitude": 25.0800137,
+		"longitude": 121.547772,
+		"description": "冰檸檬花生豆花 加大 50"		
 	}
 ]
