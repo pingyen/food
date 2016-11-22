@@ -568,5 +568,17 @@
 		"latitude": 25.0800137,
 		"longitude": 121.547772,
 		"description": "冰檸檬花生豆花 加大 50"		
+	},
+	{
+		"name": "御牛殿",
+		"latitude": 25.034584,
+		"longitude": 121.527824,
+		"description": "板腱刺身牛肉麵 清燉 180"
+	},
+	{
+		"name": "YAYOI 彌生軒 懷寧店",
+		"latitude": 25.0452534,
+		"longitude": 121.5143078,
+		"description": "鰻魚三吃\n\n南蠻雞腿"
 	}
 ]
