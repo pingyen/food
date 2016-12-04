@@ -592,5 +592,23 @@
 		"latitude": 25.068548,
 		"longitude": 121.511104,
 		"description": "腿庫肉 90\n\n高麗菜 大 40\n\n苦瓜排骨湯 40\n\n金針排骨湯 40"
+	},
+	{
+		"name": "麗都日本料理",
+		"latitude": 25.0456293,
+		"longitude": 121.5104981,
+		"description": "握壽司 330 已含服務費 10%"
+	},
+	{
+		"name": "東一排骨",
+		"latitude": 25.0448365,
+		"longitude": 121.5104763,
+		"description": "排骨飯 140\n\n雞腿飯 140"
+	},
+	{
+		"name": "鄭記豬腳飯",
+		"latitude": 25.0468719,
+		"longitude": 121.510883,
+		"description": "東坡肉"
 	}
 ]
