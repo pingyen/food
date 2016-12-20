@@ -610,5 +610,11 @@
 		"latitude": 23.55660000,
 		"longitude": 120.43003000,
 		"description": "免費湯\n\n豬腳 秤重\n\n鱔魚麵 70\n\n生炒鱔魚 100"
+	},
+	{
+		"name": "文化路 好味道",
+		"latitude": 23.478356,
+		"longitude": 120.4499,
+		"description": "餛飩乾麵\n\n蛋花湯"
 	}
 ]
