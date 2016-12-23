@@ -616,5 +616,17 @@
 		"latitude": 23.478356,
 		"longitude": 120.4499,
 		"description": "餛飩乾麵\n\n蛋花湯"
+	},
+	{
+		"name": "重慶 30 年老店 當歸豬腳",
+		"latitude": 25.05828,
+		"longitude": 121.5132282,
+		"description": "腿肉 75"
+	},
+	{
+		"name": "謝 鯊魚烟",
+		"latitude": 25.0578322,
+		"longitude": 121.51347468,
+		"description": "綜合鯊魚烟 100"
 	}
 ]
