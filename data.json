@@ -625,8 +625,14 @@
 	},
 	{
 		"name": "謝 鯊魚烟",
-		"latitude": 25.0578322,
-		"longitude": 121.51347468,
+		"latitude": 25.057838,
+		"longitude": 121.5135,
+		"description": "綜合鯊魚烟 100"
+	},
+	{
+		"name": "重慶北路二段 老攤鯊魚烟",
+		"latitude": 25.057647,
+		"longitude": 121.513563,
 		"description": "綜合鯊魚烟 100"
 	}
 ]
