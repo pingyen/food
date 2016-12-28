@@ -640,5 +640,11 @@
 		"latitude": 25.056866,
 		"longitude": 121.515529,
 		"description": "赤肉咖哩飯 70"
+	},
+	{
+		"name": "方家雞肉飯",
+		"latitude": 25.0564477,
+		"longitude": 121.515391,
+		"description": "金針排骨湯 50"
 	}
 ]
