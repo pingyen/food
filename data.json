@@ -165,7 +165,7 @@
 		"name": "大直 義麵坊",
 		"latitude": 25.082858,
 		"longitude": 121.547137,
-		"description": "海鮮總匯黑墨汁波特酒麵 細麵\n\n培根雞肉大凱薩沙拉\n\n每日湯\n\n冰紅茶\n\n週日公休"
+		"description": "海鮮總匯黑墨汁波特酒麵 細麵\n\n香蒜海鮮麵 細麵\n\n培根雞肉大凱薩沙拉\n\n每日湯\n\n冰紅茶\n\n週日公休"
 	},
 	{
 		"name": "餡老滿 南港旗艦店",
@@ -573,6 +573,12 @@
 		"name": "三代魚翅肉羹 公園店",
 		"latitude": 25.043940,
 		"longitude": 121.516672,
-		"description": "魚翅肉羹麵 55\n\n魯蛋 10"
+		"description": "魚翅肉羹麵 55"
+	},
+	{
+		"name": "圓環周小吃",
+		"latitude": 25.05356,
+		"longitude": 121.51511,
+		"description": "青菜湯"
 	}
 ]
