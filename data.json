@@ -567,7 +567,7 @@
 		"name": "方家雞肉飯",
 		"latitude": 25.0564477,
 		"longitude": 121.515391,
-		"description": "金針排骨湯 50"
+		"description": "金針排骨湯 50\n\n雞肉飯 30"
 	},
 	{
 		"name": "三代魚翅肉羹 公園店",
@@ -580,5 +580,11 @@
 		"latitude": 25.05356,
 		"longitude": 121.51511,
 		"description": "青菜湯"
+	},
+	{
+		"name": "太陽蕃茄拉麵",
+		"latitude": 25.046333,
+		"longitude": 121.516358,
+		"description": "雞骨白湯拉麵 亂切麵"
 	}
 ]
