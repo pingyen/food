@@ -604,5 +604,17 @@
 		"latitude": 25.0608786,
 		"longitude": 121.5146768,
 		"description": "綜合鯊魚烟 100\n\n排骨酥麵 80"
+	},
+	{
+		"name": "寧夏夜市 燒烤紐奧良無骨雞腿排",
+		"latitude": 25.055675,
+		"longitude": 121.515164,
+		"description": "椒鹽加檸檬 兩份 150"
+	},
+	{
+		"name": "寧夏夜市 日船章魚小丸子",
+		"latitude": 25.055686,
+		"longitude": 121.515189,
+		"description": "章魚燒 芥末 40"
 	}
 ]
