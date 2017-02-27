@@ -616,5 +616,11 @@
 		"latitude": 25.055686,
 		"longitude": 121.515189,
 		"description": "章魚燒 芥末 40"
+	},
+	{
+		"name": "意麵王",
+		"latitude": 25.058034,
+		"longitude": 121.5117748,
+		"description": "餛飩麵 50"
 	}
 ]
