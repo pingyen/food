@@ -111,13 +111,13 @@
 		"name": "龍記搶鍋麵",
 		"latitude": 25.042057,
 		"longitude": 121.51117,
-		"description": "肉絲麵 加蒜 小 90 大 120"
+		"description": "肉絲麵 加蒜"
 	},
 	{
 		"name": "龍涎居 雙連店",
 		"latitude": 25.058023,
 		"longitude": 121.519022,
-		"description": "菜甫雞 山雞腿 200\n\n四物雞 山雞腿 200\n\n何首烏雞 山雞腿 200\n\n雞肉飯 40"
+		"description": "菜甫雞 山雞腿 200\n\n四物雞 山雞腿 200"
 	},
 	{
 		"name": "阿男麻油雞",
@@ -372,12 +372,6 @@
 		"description": "鯊魚煙 綜合 90\n\n味噌湯 20"
 	},
 	{
-		"name": "博多 一幸舍 站前店",
-		"latitude": 25.045417,
-		"longitude": 121.515835,
-		"description": "博多濃厚豚骨拉麵 253\n\n糖心蛋 33\n\n已含 10% 服務費"		
-	},
-	{
 		"name": "Oxygen O Bar",
 		"latitude": 25.042584,
 		"longitude": 121.513092,
@@ -393,7 +387,7 @@
 		"name": "周照子鐵板燒",
 		"latitude": 25.057392,
 		"longitude": 121.517595,
-		"description": "去骨土雞腿 原煎 套餐 290"
+		"description": "去骨土雞腿 原煎 套餐 290\n\n真菲力牛排 原煎 套餐 370"
 	},
 	{
 		"name": "重慶北路 嘉義雞肉飯",
@@ -405,7 +399,7 @@
 		"name": "Hadron 雞蛋糕",
 		"latitude": 25.0567037,
 		"longitude": 121.5155093,
-		"description": "雞蛋糕 大份"
+		"description": "雞蛋糕 大份 50"
 	},
 	{
 		"name": "雙連鵝肉莊",
@@ -435,7 +429,7 @@
 		"name": "天喜迷你火鍋",
 		"latitude": 25.0539009,
 		"longitude": 121.5133307,
-		"description": "石頭火鍋 牛"
+		"description": "石頭火鍋 牛 羊"
 	},
 	{
 		"name": "寧夏夜市 小漁夫",
@@ -622,5 +616,17 @@
 		"latitude": 25.058034,
 		"longitude": 121.5117748,
 		"description": "餛飩麵 50"
+	},
+	{
+		"name": "油豆腐細粉",
+		"latitude": 25.044785,
+		"longitude": 121.516934,
+		"description": "牛肉細粉 110"
+	},
+	{
+		"name": "珍煮丹 北車開封店",
+		"latitude": 25.046105,
+		"longitude": 121.513906,
+		"description": "泰泰鮮奶茶珍珠 大杯 75\n\n珍珠紅茶拿鐵 大杯 70"
 	}
 ]
