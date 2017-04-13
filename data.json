@@ -201,7 +201,7 @@
 		"name": "東門城滷肉飯",
 		"latitude": 25.034593,
 		"longitude": 121.526615,
-		"description": "便當 100"
+		"description": "便當 100 老闆搭配 指定三層肉"
 	},
 	{
 		"name": "居和熹",
@@ -646,5 +646,11 @@
 		"latitude": 25.046105,
 		"longitude": 121.513906,
 		"description": "泰泰鮮奶茶珍珠 大杯 75\n\n珍珠紅茶拿鐵 大杯 70"
+	},
+	{
+		"name": "寧夏夜市 牛媽媽沙茶牛肉",
+		"latitude": 25.0565643,
+		"longitude": 121.5154356,
+		"description": "焢肉飯 60\n\n牛雜湯 60"
 	}
 ]
