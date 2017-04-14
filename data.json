@@ -652,5 +652,11 @@
 		"latitude": 25.0565643,
 		"longitude": 121.5154356,
 		"description": "焢肉飯 60\n\n牛雜湯 60"
+	},
+	{
+		"name": "良品牛肉麵",
+		"latitude": 25.045887,
+		"longitude": 121.513893,
+		"description": "清燉牛肉麵 140"
 	}
 ]
