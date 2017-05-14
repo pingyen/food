@@ -59,8 +59,8 @@
 	}
 
 	#map-canvas {
-		height: 80vh;
-		height: calc(100% - 132px);
+		height: 90vh;
+		height: calc(100% - 54px);
 	}
 
 	#map-canvas h2 {
@@ -79,12 +79,6 @@
 		margin: 12px 0 6px;
 		overflow: visible;
 		padding-left: 2px;
-	}
-
-	body > .ad {
-		display: block;
-		margin: 8px auto;
-		max-width: 1200px;
 	}
 </style>
 <!--[if lt IE 9]>
@@ -105,80 +99,96 @@
 	(function() {
 		var maps = google.maps,
 			event = maps.event,
-			zIndex = 1000;
+			zIndex = 1000,
+			map = new maps.Map(document.getElementById('map-canvas')),
+			data = <?php echo file_get_contents('data.json') ?>,
+			latLngBounds = new maps.LatLngBounds();
 
-		maps.event.addDomListener(window, 'load', function() {
-			var map = new maps.Map(document.getElementById('map-canvas')),
-				data = <?php echo file_get_contents('data.json') ?>,
-				latLngBounds = new maps.LatLngBounds();
+		data.forEach(function(item) {
+			var name = item.name,
+				latLng = new maps.LatLng(item.latitude, item.longitude),
+				infowindow = new maps.InfoWindow({
+					content: '<h2><a href="https://www.google.com.tw/search?q=' + encodeURIComponent(name) + '" target="_blank" >' + name + '</a></h2><pre>' + item.description + '</pre>'
+				}),
+				marker = new maps.Marker({
+					position: latLng,
+					map: map,
+					title: name
+				});
 
-			data.forEach(function(item) {
-				var name = item.name,
-					latLng = new maps.LatLng(item.latitude, item.longitude),
-  					infowindow = new maps.InfoWindow({
-					    content: '<h2><a href="https://www.google.com.tw/search?q=' + encodeURIComponent(name) + '" target="_blank" >' + name + '</a></h2><pre>' + item.description + '</pre>'
-  					}),
+			event.addListener(marker, 'click', function() {
+				infowindow.setZIndex(++zIndex);
+				infowindow.open(map, marker);
+			});
+
+			latLngBounds.extend(latLng);
+		});
+
+		map.setCenter(latLngBounds.getCenter());
+		map.fitBounds(latLngBounds);
+
+		event.addListenerOnce(map, 'idle', function() {
+			var setCurrentPosition = function(latitude, longitude) {
+				var latLng = new maps.LatLng(latitude, longitude),
+					infowindow = new maps.InfoWindow({
+						content: '目前位置'
+					}),
 					marker = new maps.Marker({
 						position: latLng,
 						map: map,
-						title: name
-				    });
+						title: '目前位置',
+						icon: {
+							anchor: new maps.Point(15, 16),
+							path: 'M 15.625,0.625 19.375,11.25 30.625,11.25 21.875,18.125 25,28.75 15.625,22.5 6.25,28.75 9.375,18.125 0.375,11.25 11.875,11.25 z',
+							fillColor: 'yellow',
+							fillOpacity: 0.8,
+							strokeColor: 'gold',
+							strokeWeight: 2.4
+						},
+						zIndex: 10000
+					});
 
 				event.addListener(marker, 'click', function() {
-					infowindow.setZIndex(++zIndex);
 					infowindow.open(map, marker);
-  				});
+				});
 
-				latLngBounds.extend(latLng);
-			});
+				map.setCenter(latLng);
+				map.setZoom(16);
+			};
 
-			map.setCenter(latLngBounds.getCenter());
-			map.fitBounds(latLngBounds);
+			if (function() {
+				var search = location.search;
+
+				if (search === '') {
+					return false;
+				}
+
+				var tokens = search.substr(1).split(',');
+
+				if (tokens.length !== 2) {
+					return false;
+				}
+
+				setCurrentPosition(tokens[0] ^ 0, tokens[1] ^ 0);
+
+				return true;
+			}() === true) {
+				return;
+			}
 
 			var geolocation = navigator.geolocation;
 
-			if (geolocation) {
-			    geolocation.getCurrentPosition(function (position) {
-					var coords = position.coords,
-						latLng = new maps.LatLng(coords.latitude, coords.longitude),
-						infowindow = new maps.InfoWindow({
-						    content: '目前位置'
-						}),
-						marker = new maps.Marker({
-							position: latLng,
-						    map: map,
-							title: '目前位置',
-							icon: {
-								anchor: new maps.Point(15, 16),
-								path: 'M 15.625,0.625 19.375,11.25 30.625,11.25 21.875,18.125 25,28.75 15.625,22.5 6.25,28.75 9.375,18.125 0.375,11.25 11.875,11.25 z',
-								fillColor: 'yellow',
-								fillOpacity: 0.8,
-								strokeColor: 'gold',
-								strokeWeight: 2.4
-							},
-							zIndex: 10000
-					    });
-
-					event.addListener(marker, 'click', function() {
-						infowindow.open(map, marker);
-					});
-
-					map.setCenter(latLng);
-					map.setZoom(14);
-			    });
+			if (geolocation === undefined) {
+				return;
 			}
+
+			geolocation.getCurrentPosition(function (position) {
+				var coords = position.coords;
+
+				setCurrentPosition(coords.latitude, coords.longitude);
+			});
 		});
 	})();
-</script>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Food Map -->
-<ins class="ad adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1821434700708607"
-     data-ad-slot="9651277991"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <script>
 (function() {
