@@ -169,7 +169,15 @@
 					return false;
 				}
 
-				setCurrentPosition(tokens[0] ^ 0, tokens[1] ^ 0);
+				var latitude = parseFloat(tokens[0]),
+					longitude = parseFloat(tokens[1]);
+
+				if (isNaN(latitude) === true ||
+					isNaN(longitude) === true) {
+					return false;
+				}
+
+				setCurrentPosition(latitude, longitude);
 
 				return true;
 			}() === true) {
