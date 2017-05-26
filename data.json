@@ -670,5 +670,11 @@
 		"latitude": 25.1689754,
 		"longitude": 121.442345,
 		"description": "小管 大 含卵 半斤 200"
+	},
+	{
+		"name": "SGP 新加坡美食",
+		"latitude": 25.045130,
+		"longitude": 121.516317,
+		"description": "炸魚肉米粉 80"
 	}
 ]
