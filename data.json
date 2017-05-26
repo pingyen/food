@@ -42,12 +42,6 @@
 		"description": "蛋包飯\n\n營業時間 1630 - 0200"
 	},
 	{
-		"name": "Sukiya 台北站前店",
-		"latitude": 25.0450504,
-		"longitude": 121.5160376,
-		"description": "24H\n\n翠玉牛丼 99\n\n加點 青菜套餐 30"
-	},
-	{
 		"name": "珍珍海產粥",
 		"latitude": 23.478944,
 		"longitude": 120.449788,
@@ -60,24 +54,6 @@
 		"description": "葡萄柚綠茶 50\n\n紅鑽葡萄柚綠茶 50"
 	},
 	{
-		"name": "乙級美食",
-		"latitude": 23.5566826,
-		"longitude": 120.4720241,
-		"description": "椒鹽煎雞腿飯 75"
-	},
-	{
-		"name": "貓尾巴",
-		"latitude": 23.476912,
-		"longitude": 120.461008,
-		"description": "烤布蕾 30"
-	},
-	{
-		"name": "魏姐包心粉圓 台北桂林店",
-		"latitude": 25.0377645,
-		"longitude": 121.5062985,
-		"description": "包心綜合豆花 冰 65"
-	},
-	{
 		"name": "張家清真牛肉麵",
 		"latitude": 25.04575,
 		"longitude": 121.510653,
@@ -88,12 +64,6 @@
 		"latitude": 25.039357,
 		"longitude": 121.525667,
 		"description": "清燉牛肉粉絲 140\n\n清燉過橋粉絲 190"
-	},
-	{
-		"name": "Panos 杭州店",
-		"latitude": 25.0345242,
-		"longitude": 121.5240097,
-		"description": "24H\n\n櫻桃啤酒\n\n白啤酒"
 	},
 	{
 		"name": "佑壽司",
@@ -192,12 +162,6 @@
 		"description": "松花皮蛋豬肉水餃\n\n酸辣湯"
 	},
 	{
-		"name": "南港炒牛肉",
-		"latitude": 25.055708,
-		"longitude": 121.612689,
-		"description": "炒羊肉\n\n旗魚味噌湯"
-	},
-	{
 		"name": "黃媽媽米粉湯",
 		"latitude": 25.034583,
 		"longitude": 121.526605,
@@ -238,12 +202,6 @@
 		"latitude": 25.1712283,
 		"longitude": 121.4385458,
 		"description": "烤雞腿\n\n餛飩麵\n\n桂花荔枝冰"
-	},
-	{
-		"name": "寧夏夜市 老牌豬血湯",
-		"latitude": 25.055974,
-		"longitude": 121.51525,
-		"description": "藥燉排骨"
 	},
 	{
 		"name": "阿忠越式傳統牛肉河粉",
@@ -292,12 +250,6 @@
 		"latitude": 25.055631942978,
 		"longitude": 121.51514555798,
 		"description": "小 40 三個 100\n\n大 50 三個 130"
-	},
-	{
-		"name": "富田鐵板燒",
-		"latitude": 25.0391066,
-		"longitude": 121.5236179,
-		"description": "沙朗 椒鹽 170\n\n雞排 椒鹽 180\n\n魚排 清蒸 150"
 	},
 	{
 		"name": "正好鮮肉小籠包 通化店",
@@ -360,46 +312,16 @@
 		"description": "韓式烤肉套餐\n\n牛排大骨湯黑土鍋\n\n大棗人蔘雞黑土鍋\n\n石頭烤肉定食\n\n免費湯、免費小菜"
 	},
 	{
-		"name": "定食 8 南門店",
-		"latitude": 25.0331404,
-		"longitude": 121.5181822,
-		"description": "酥炸軟殼蟹 大 180\n\n黃金牡蠣 90"
-	},
-	{
 		"name": "三元號",
 		"latitude": 25.0545138,
 		"longitude": 121.5144418,
 		"description": "魚翅肉羹\n\n松茸鳥蛋湯"
 	},
 	{
-		"name": "蔡嘉義火雞肉飯",
-		"latitude": 25.056511,
-		"longitude": 121.5152707,
-		"description": "火雞肉飯便當"
-	},
-	{
-		"name": "梅村日本料理",
-		"latitude": 25.0421657,
-		"longitude": 121.5112846,
-		"description": "梅村套餐 638 服務費已加"
-	},
-	{
 		"name": "寧夏夜市 泰味鮮",
 		"latitude": 25.0562095,
 		"longitude": 121.5154503,
 		"description": "泰式肉絲炒飯\n\n蝦醬炒飯\n\n蝦醬空心菜"
-	},
-	{
-		"name": "林 鯊魚煙",
-		"latitude": 25.06341,
-		"longitude": 121.511,
-		"description": "鯊魚煙 綜合 90\n\n味噌湯 20"
-	},
-	{
-		"name": "Oxygen O Bar",
-		"latitude": 25.042584,
-		"longitude": 121.513092,
-		"description": "酥炸黃金魚排堡 240\n\n啤酒 200"
 	},
 	{
 		"name": "嘉義鮑魚海產粥",
@@ -414,12 +336,6 @@
 		"description": "去骨土雞腿 原煎 套餐 290\n\n真菲力牛排 原煎 套餐 370"
 	},
 	{
-		"name": "重慶北路 嘉義雞肉飯",
-		"latitude": 25.052016,
-		"longitude": 121.5141,
-		"description": "骨仔肉\n\n豬皮"
-	},
-	{
 		"name": "Hadron 雞蛋糕",
 		"latitude": 25.0567037,
 		"longitude": 121.5155093,
@@ -429,13 +345,7 @@
 		"name": "雙連鵝肉莊",
 		"latitude": 25.0572502,
 		"longitude": 121.5164986,
-		"description": "鵝心肝胗\n\n鵝腿\n\n意麵"
-	},
-	{
-		"name": "台灣添虱目魚",
-		"latitude": 25.0428204,
-		"longitude": 121.51394,
-		"description": "煎魚腸 100"
+		"description": "鵝心肝胗"
 	},
 	{
 		"name": "輔大花園夜市 鬪鷄三星蔥腿板燒",
@@ -459,13 +369,7 @@
 		"name": "寧夏夜市 小漁夫",
 		"latitude": 25.0564095,
 		"longitude": 121.5154284,
-		"description": "烤生蠔 小 10 顆 100"
-	},
-	{
-		"name": "寧夏夜市 瑪拉桑",
-		"latitude": 25.0566755,
-		"longitude": 121.5154771,
-		"description": "雞肉串 3 串 100"
+		"description": "烤生蠔 小 8 顆 100"
 	},
 	{
 		"name": "寧夏夜市 明太子醬烤墨魚飯",
@@ -504,28 +408,10 @@
 		"description": "鰻魚三吃\n\n南蠻雞腿"
 	},
 	{
-		"name": "鴻記鐵板燒蔥餅捲",
-		"latitude": 25.056033,
-		"longitude": 121.515266,
-		"description": "海鮮捲 70"
-	},
-	{
 		"name": "老牌張豬腳",
 		"latitude": 25.068548,
 		"longitude": 121.511104,
 		"description": "腿庫肉 90\n\n高麗菜 大 40\n\n苦瓜排骨湯 40\n\n金針排骨湯 40"
-	},
-	{
-		"name": "麗都日本料理",
-		"latitude": 25.0456293,
-		"longitude": 121.5104981,
-		"description": "握壽司 330 已含服務費 10%"
-	},
-	{
-		"name": "東一排骨",
-		"latitude": 25.0448365,
-		"longitude": 121.5104763,
-		"description": "排骨飯 140\n\n雞腿飯 140"
 	},
 	{
 		"name": "鄭記豬腳飯",
@@ -564,40 +450,10 @@
 		"description": "腿肉 75"
 	},
 	{
-		"name": "謝 鯊魚烟",
-		"latitude": 25.057838,
-		"longitude": 121.5135,
-		"description": "綜合鯊魚烟 100"
-	},
-	{
-		"name": "重慶北路二段 老攤鯊魚烟",
-		"latitude": 25.057647,
-		"longitude": 121.513563,
-		"description": "綜合鯊魚烟 100"
-	},
-	{
 		"name": "寧夏夜市 大鐤肉焿",
 		"latitude": 25.056866,
 		"longitude": 121.515529,
 		"description": "赤肉咖哩飯 70"
-	},
-	{
-		"name": "方家雞肉飯",
-		"latitude": 25.0564477,
-		"longitude": 121.515391,
-		"description": "金針排骨湯 50\n\n雞肉飯 30"
-	},
-	{
-		"name": "三代魚翅肉羹 公園店",
-		"latitude": 25.043940,
-		"longitude": 121.516672,
-		"description": "魚翅肉羹麵 55"
-	},
-	{
-		"name": "圓環周小吃",
-		"latitude": 25.05356,
-		"longitude": 121.51511,
-		"description": "青菜湯"
 	},
 	{
 		"name": "太陽蕃茄拉麵",
