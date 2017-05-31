@@ -468,34 +468,10 @@
 		"description": "913 茶王 去冰 去糖 茶濃 大杯 60"
 	},
 	{
-		"name": "老攤肉粥",
-		"latitude": 25.057185,
-		"longitude": 121.515567,
-		"description": "營業時間 5 - 11\n\n炸綜合海鮮 100"
-	},
-	{
 		"name": "柴寮鯊魚烟",
 		"latitude": 25.0608786,
 		"longitude": 121.5146768,
 		"description": "綜合鯊魚烟 100\n\n排骨酥麵 80"
-	},
-	{
-		"name": "寧夏夜市 燒烤紐奧良無骨雞腿排",
-		"latitude": 25.055675,
-		"longitude": 121.515164,
-		"description": "椒鹽加檸檬 兩份 150"
-	},
-	{
-		"name": "寧夏夜市 日船章魚小丸子",
-		"latitude": 25.055686,
-		"longitude": 121.515189,
-		"description": "章魚燒 芥末 40"
-	},
-	{
-		"name": "意麵王",
-		"latitude": 25.058034,
-		"longitude": 121.5117748,
-		"description": "餛飩麵 50"
 	},
 	{
 		"name": "油豆腐細粉",
@@ -532,11 +508,5 @@
 		"latitude": 25.045130,
 		"longitude": 121.516317,
 		"description": "炸魚肉米粉 80"
-	},
-	{
-		"name": "香連鐵板燒",
-		"latitude": 25.0547484,
-		"longitude": 121.5147936,
-		"description": "沙茶蟹肉"
 	}
 ]
