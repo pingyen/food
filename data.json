@@ -468,6 +468,12 @@
 		"description": "913 茶王 去冰 去糖 茶濃 大杯 60"
 	},
 	{
+		"name": "天仁 凱撒店",
+		"latitude": 25.046199,
+		"longitude": 121.516417,
+		"description": "913 茶王 去冰 去糖 茶濃 大杯 60"
+	},
+	{
 		"name": "柴寮鯊魚烟",
 		"latitude": 25.0608786,
 		"longitude": 121.5146768,
@@ -514,5 +520,11 @@
 		"latitude": 25.0835395,
 		"longitude": 121.5464459,
 		"description": "愛文芒果冰沙 75"
+	},
+	{
+		"name": "了凡香港油雞飯麵",
+		"latitude": 25.0460861,
+		"longitude": 121.5168596,
+		"description": "叉燒飯 130"
 	}
 ]
