@@ -538,5 +538,17 @@
 		"latitude": 25.0562505,
 		"longitude": 121.5153337,
 		"description": "什錦炒飯 75"
+	},
+	{
+		"name": "小飯館兒",
+		"latitude": 25.012203,
+		"longitude": 121.53541,
+		"description": "雞豬烤肉 兩人 310 三人 460"
+	},
+	{
+		"name": "以利泡泡冰 公館店",
+		"latitude": 25.0153542,
+		"longitude": 121.5327432,
+		"description": "芒果牛奶冰 120"
 	}
 ]
