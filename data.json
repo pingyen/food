@@ -562,5 +562,11 @@
 		"latitude": 25.0522629,
 		"longitude": 121.5206815,
 		"description": "四物雞套餐 169\n\n二館 B1"
+	},
+	{
+		"name": "牛肉陳",
+		"latitude": 25.058138,
+		"longitude": 121.52009,
+		"description": "牛雜湯 80"
 	}
 ]
