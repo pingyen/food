@@ -568,5 +568,17 @@
 		"latitude": 25.058138,
 		"longitude": 121.52009,
 		"description": "牛雜湯 80"
+	},
+	{
+		"name": "小林麵館",
+		"latitude": 25.0226119,
+		"longitude": 121.524132,
+		"description": "麻辣鴨血豆腐牛肉冬粉\n\n11-14 17-20 週六公休"
+	},
+	{
+		"name": "揪鬪本家",
+		"latitude": 25.0347787,
+		"longitude": 121.5249078,
+		"description": "明太子烤雞腿丼飯"
 	}
 ]
