@@ -33,7 +33,7 @@
 		"name": "石二鍋 信義店",
 		"latitude": 25.0342198,
 		"longitude": 121.5262627,
-		"description": "雪花牛肉 218\n\n單點魷魚 50\n\n滷肉飯 5\n\n冬瓜冰續杯外帶 10"
+		"description": "雪花牛肉\n\n單點魷魚\n\n滷肉飯\n\n冬瓜冰續杯外帶"
 	},
 	{
 		"name": "酷爸牛排",
@@ -81,7 +81,7 @@
 		"name": "麵屋緣",
 		"latitude": 25.030641,
 		"longitude": 121.550133,
-		"description": "沾麵 280 克 280"
+		"description": "沾麵 280 克 300"
 	},
 	{
 		"name": "IKEA 敦北店",
@@ -111,7 +111,7 @@
 		"name": "龍涎居 雙連店",
 		"latitude": 25.058023,
 		"longitude": 121.519022,
-		"description": "菜甫雞 山雞腿 200\n\n四物雞 山雞腿 200"
+		"description": "四物雞 山雞腿 200\n\n菜甫雞 山雞腿 200"
 	},
 	{
 		"name": "阿男麻油雞",
@@ -219,7 +219,7 @@
 		"name": "寧夏夜市 東石鮮蚵",
 		"latitude": 25.0568448,
 		"longitude": 121.5154129,
-		"description": "鍋燒意麵\n\n綜合煎\n\n綜合炒飯\n\n蛤仔湯\n\n炒高麗菜\n\n炒紅菜\n\n營業至凌晨兩點半"
+		"description": "鍋燒意麵\n\n綜合煎\n\n綜合炒飯\n\n蛤仔湯\n\n炒高麗菜\n\n營業至凌晨兩點半"
 	},
 	{
 		"name": "阿華鯊魚烟",
@@ -285,7 +285,7 @@
 		"name": "藏壽司 台北館前店",
 		"latitude": 25.045657,
 		"longitude": 121.514739,
-		"description": "山葵"
+		"description": "毛豆\n\n豆乳甜甜圈\n\n山葵"
 	},
 	{
 		"name": "種福園",
@@ -309,19 +309,19 @@
 		"name": "爭鮮 林森店",
 		"latitude": 25.0544679,
 		"longitude": 121.5248126,
-		"description": "鮭魚肚\n\n鮭魚生魚片\n\n鮭魚小菜軍艦\n\n鰻魚\n\n星鰻手捲\n\n北極甜蝦"
+		"description": "焦糖鮭魚肚\n\n鮭魚肚\n\n鮭魚生魚片\n\n鮭魚小菜軍艦\n\n鰻魚\n\n星鰻手捲\n\n北極甜蝦"
 	},
 	{
 		"name": "麥食達",
 		"latitude": 25.0429159,
 		"longitude": 121.51394,
-		"description": "韓式烤肉套餐\n\n牛排大骨湯黑土鍋\n\n大棗人蔘雞黑土鍋\n\n石頭烤肉定食\n\n免費湯、免費小菜"
+		"description": "韓式烤肉套餐\n\n牛排大骨湯黑土鍋\n\n石頭烤肉定食\n\n免費湯、免費小菜"
 	},
 	{
 		"name": "三元號",
 		"latitude": 25.0545138,
 		"longitude": 121.5144418,
-		"description": "魚翅肉羹\n\n松茸鳥蛋湯"
+		"description": "魚翅肉羹"
 	},
 	{
 		"name": "寧夏夜市 泰味鮮",
@@ -378,10 +378,10 @@
 		"description": "烤生蠔 小 8 顆 100"
 	},
 	{
-		"name": "寧夏夜市 明太子醬烤墨魚飯",
+		"name": "寧夏夜市 黃金起司 明太子 醬烤墨魚飯",
 		"latitude": 25.055990,
 		"longitude": 121.515258,
-		"description": "明太子醬烤墨魚飯 150"
+		"description": "黃金起司醬烤墨魚飯\n\n明太子醬烤墨魚飯"
 	},
 	{
 		"name": "雅米花生捲冰淇淋 寧夏店",
@@ -405,13 +405,13 @@
 		"name": "御牛殿",
 		"latitude": 25.034584,
 		"longitude": 121.527824,
-		"description": "板腱刺身牛肉麵 清燉 180"
+		"description": "刺身牛肉麵 清燉"
 	},
 	{
 		"name": "YAYOI 彌生軒 懷寧店",
 		"latitude": 25.0452534,
 		"longitude": 121.5143078,
-		"description": "鰻魚三吃\n\n蒸蛋\n\n納豆"
+		"description": "鰻魚三吃\n\n蒸蛋"
 	},
 	{
 		"name": "老牌張豬腳",
@@ -483,7 +483,7 @@
 		"name": "柴寮鯊魚烟",
 		"latitude": 25.0608786,
 		"longitude": 121.5146768,
-		"description": "綜合鯊魚烟 100\n\n排骨酥麵 80"
+		"description": "綜合鯊魚烟 100\n\n沙拉飛卷 150\n\n排骨酥麵 80"
 	},
 	{
 		"name": "油豆腐細粉",
@@ -552,12 +552,6 @@
 		"description": "雞豬烤肉 兩人 310 三人 460"
 	},
 	{
-		"name": "以利泡泡冰 公館店",
-		"latitude": 25.0153542,
-		"longitude": 121.5327432,
-		"description": "芒果牛奶冰 120"
-	},
-	{
 		"name": "駱姐正雞酒 新光三越南西店",
 		"latitude": 25.0522629,
 		"longitude": 121.5206815,
@@ -598,5 +592,29 @@
 		"latitude": 25.0496536,
 		"longitude": 121.5227392,
 		"description": "味噌牛筋\n\n炸牡蠣"
+	},
+	{
+		"name": "寧夏夜市 歐帕韓國炸雞",
+		"latitude": 25.05696188,
+		"longitude": 121.51565488,
+		"description": "雞腿肉 不辣 150"
+	},
+	{
+		"name": "臺客炸雞",
+		"latitude": 25.056881,
+		"longitude": 121.516867,
+		"description": "鹽酥雞"
+	},
+	{
+		"name": "寧夏夜市 里長伯",
+		"latitude": 25.05548,
+		"longitude": 121.515002,
+		"description": "豆腐鴨血 不辣"
+	},
+	{
+		"name": "寧夏夜市 邱記碳烤",
+		"latitude": 25.055674,
+		"longitude": 121.515157,
+		"description": "雞腿串\n\n雞捲"
 	}
 ]
