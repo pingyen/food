@@ -616,5 +616,17 @@
 		"latitude": 25.055674,
 		"longitude": 121.515157,
 		"description": "雞腿串\n\n雞捲"
+	},
+	{
+		"name": "寧夏鄭記台南碗粿",
+		"latitude": 25.0571425,
+		"longitude": 121.5139741,
+		"description": "香菇雞湯"
+	},
+	{
+		"name": "六堆伙房中山店",
+		"latitude": 25.0526,
+		"longitude": 121.522369,
+		"description": "菜尾鍋\n\n東方醉美人"
 	}
 ]
