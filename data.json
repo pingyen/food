@@ -628,5 +628,17 @@
 		"latitude": 25.0526,
 		"longitude": 121.522369,
 		"description": "菜尾鍋\n\n東方醉美人"
+	},
+	{
+		"name": "老攤肉粥",
+		"latitude": 25.057185,
+		"longitude": 121.515567,
+		"description": "肉粥\n\n綜合海鮮\n\n瘦肉"
+	},
+	{
+		"name": "源士林 信陽店",
+		"latitude": 25.0448416,
+		"longitude": 121.5160213,
+		"description": "粥霸"
 	}
 ]
