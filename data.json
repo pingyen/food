@@ -640,5 +640,17 @@
 		"latitude": 25.0448416,
 		"longitude": 121.5160213,
 		"description": "粥霸"
+	},
+	{
+		"name": "洋朵 重慶店",
+		"latitude": 25.0441988,
+		"longitude": 121.51332,
+		"description": "清炒蒜香雞胸義大利麵\n\n焦糖烤布蕾"
+	},
+	{
+		"name": "米塔 南京店",
+		"latitude": 25.0520279,
+		"longitude": 121.523712,
+		"description": "清炒蒜香雞胸義大利麵\n\n焦糖烤布蕾"
 	}
 ]
