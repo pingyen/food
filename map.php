@@ -29,33 +29,45 @@
 		margin: 6px 12px;
 	}
 
-	body > nav {
+	body > aside {
 		left: 64px;
 		position: absolute;
 		top: 12px;
 	}
 
-	body > nav > ul {
-		display: block;
+	body > aside > nav {
+		display: inline-block;
+	}
+
+	body > aside > nav > ul {
+		display: inline-block;
 		margin: 0;
 		padding: 0;
 	}
 
-	body > nav > ul > li {
+	body > aside > nav > ul > li {
 		display: inline-block;
 	}
 
-	body > nav > ul > li > a {
+	body > aside > nav > ul > li > a {
 		color: #000;
 		display: inline-block;
 		padding: 4px;
 		text-decoration: none;
 	}
 
-	body > nav > ul > li > a.current {
+	body > aside > nav > ul > li > a.current {
 		border-bottom: 3px solid #dd4b39;
 		color: #dd4b39;
 		font-weight: bold;
+	}
+
+	body > aside > a {
+		display: inline-block;
+		margin-left: 4px;
+		font-size: 12px;
+		text-decoration: none;
+		color: #333;
 	}
 
 	#map-canvas {
@@ -88,12 +100,15 @@
 </head>
 <body>
 <h1>食</h1>
-<nav>
-	<ul>
-		<li><a href="<?php echo substr($_SERVER['REQUEST_URI'], 0, -3) ?>" >列表</a></li>
-		<li><a href="map" class="current" >地圖</a></li>
-	</ul>
-</nav>
+<aside>
+	<nav>
+		<ul>
+			<li><a href="<?php echo substr($_SERVER['REQUEST_URI'], 0, -3) ?>" >列表</a></li>
+			<li><a href="map" class="current" >地圖</a></li>
+		</ul>
+	</nav>
+	<a href="#">以目前位置為中心</a>
+</aside>
 <div id="map-canvas"></div>
 <script>
 	(function() {
@@ -184,16 +199,14 @@
 				return;
 			}
 
-			var geolocation = navigator.geolocation;
+			document.querySelector('aside > a').addEventListener('click', function(e) {
+				navigator.geolocation.getCurrentPosition(function (position) {
+					var coords = position.coords;
 
-			if (geolocation === undefined) {
-				return;
-			}
+					setCurrentPosition(coords.latitude, coords.longitude);
+				});
 
-			geolocation.getCurrentPosition(function (position) {
-				var coords = position.coords;
-
-				setCurrentPosition(coords.latitude, coords.longitude);
+				e.preventDefault();
 			});
 		});
 	})();

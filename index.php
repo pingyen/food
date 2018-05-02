@@ -21,33 +21,45 @@
 		margin: 6px 12px;
 	}
 
-	body > nav {
+	body > aside {
 		left: 64px;
 		position: absolute;
 		top: 12px;
 	}
 
-	body > nav > ul {
-		display: block;
+	body > aside > nav {
+		display: inline-block;
+	}
+
+	body > aside > nav > ul {
+		display: inline-block;
 		margin: 0;
 		padding: 0;
 	}
 
-	body > nav > ul > li {
+	body > aside > nav > ul > li {
 		display: inline-block;
 	}
 
-	body > nav > ul > li > a {
+	body > aside > nav > ul > li > a {
 		color: #000;
 		display: inline-block;
 		padding: 4px;
 		text-decoration: none;
 	}
 
-	body > nav > ul > li > a.current {
+	body > aside > nav > ul > li > a.current {
 		border-bottom: 3px solid #dd4b39;
 		color: #dd4b39;
 		font-weight: bold;
+	}
+
+	body > aside > a {
+		display: inline-block;
+		margin-left: 4px;
+		font-size: 12px;
+		text-decoration: none;
+		color: #333;
 	}
 
 	body > main > article {
@@ -113,12 +125,15 @@
 </head>
 <body>
 <h1>食</h1>
-<nav>
-	<ul>
-		<li><a href="<?php echo $_SERVER['REQUEST_URI'] ?>" class="current" >列表</a></li>
-		<li><a href="map" >地圖</a></li>
-	</ul>
-</nav>
+<aside>
+	<nav>
+		<ul>
+			<li><a href="<?php echo $_SERVER['REQUEST_URI'] ?>" class="current" >列表</a></li>
+			<li><a href="map" >地圖</a></li>
+		</ul>
+	</nav>
+	<a href="#">以距離排序</a>
+</aside>
 <main>
 <?php
 	$data = json_decode(file_get_contents('data.json'), true);
@@ -131,7 +146,7 @@
 		$name = $item['name'];
 		$name2 = urlencode($name);
 ?>
-	<article class="hidden" data-latitude="<?php echo $item['latitude'] ?>" data-longitude="<?php echo $item['longitude'] ?>" >
+	<article data-latitude="<?php echo $item['latitude'] ?>" data-longitude="<?php echo $item['longitude'] ?>" >
 		<h2><a href="https://www.google.com.tw/search?q=<?php echo $name2 ?>" target="_blank" ><?php echo $name ?></a></h2>
 		<pre><?php echo $item['description'] ?></pre>
 	</article>
@@ -140,63 +155,55 @@
 ?>
 </main>
 <script>
-	(function() {
-		var geolocation = navigator.geolocation,
-			main = document.getElementsByTagName('main')[0],
-			articles = Array.prototype.slice.call(main.getElementsByTagName('article'));
+	document.querySelector('aside > a').addEventListener('click', function(e) {
+		var main = document.querySelector('main'),
+			articles = Array.from(main.getElementsByTagName('article'));
 
-		if (geolocation) {
-			geolocation.getCurrentPosition(function (position) {
-				var coords = position.coords,
-					latitude = coords.latitude,
-					longitude = coords.longitude;
+		articles.forEach(function(article) {
+			article.classList.add('hidden');
+		});
 
-				articles.forEach(function(article) {
-					article.distance = (function(lat, lng, lat2, lng2) {
-							var dLat = deg2rad(lat2 - lat),
-								dLng = deg2rad(lng2 - lng),
-								a = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.cos(deg2rad(lat)) * Math.cos(deg2rad(lat2)) * Math.sin(dLng / 2) * Math.sin(dLng / 2),
-	  							c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+		navigator.geolocation.getCurrentPosition(function (position) {
+			var coords = position.coords,
+				latitude = coords.latitude,
+				longitude = coords.longitude;
 
-	  						return c *  6371;
+			articles.forEach(function(article) {
+				article.distance = (function(lat, lng, lat2, lng2) {
+					var dLat = deg2rad(lat2 - lat),
+						dLng = deg2rad(lng2 - lng),
+						a = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.cos(deg2rad(lat)) * Math.cos(deg2rad(lat2)) * Math.sin(dLng / 2) * Math.sin(dLng / 2),
+						c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 
-							function deg2rad(deg) {
-								return deg * (Math.PI / 180);
-							}
-						})(latitude, longitude, article.getAttribute('data-latitude'), article.getAttribute('data-longitude'));
-				});
+					return c *  6371;
 
-				articles.sort(function(a, b) {
-					return a.distance - b.distance;
-				});
-
-
-				var tokens = [];
-
-				articles.forEach(function(article) {
-					article.className = 'fadeIn';
-					tokens.push(article.outerHTML);
-				});
-
-				main.innerHTML = tokens.join('\n');
-			}, function() {
-				articles.forEach(function(article) {
-					article.className = 'fadeIn';
-				});
+					function deg2rad(deg) {
+						return deg * (Math.PI / 180);
+					}
+				})(latitude, longitude, article.getAttribute('data-latitude'), article.getAttribute('data-longitude'));
 			});
-		}
-		else {
+
+			articles.sort(function(a, b) {
+				return a.distance - b.distance;
+			});
+
+
+			var tokens = [];
+
+			articles.forEach(function(article) {
+				article.className = 'fadeIn';
+				tokens.push(article.outerHTML);
+			});
+
+			main.innerHTML = tokens.join('\n');
+		}, function() {
 			articles.forEach(function(article) {
 				article.className = 'fadeIn';
 			});
-		}
+		});
 
-		setTimeout(function() {
-			articles.forEach(function(article) {
-				article.className = '';
-			});
-		}, 5000);
-	})();
+		e.preventDefault();
+	});
 </script>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Food Bottom -->
