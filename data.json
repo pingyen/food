@@ -658,5 +658,11 @@
 		"latitude": 25.0590143,
 		"longitude": 121.5258647,
 		"description": "玉米排骨湯"
+	},
+	{
+		"name": "橫濱家系大和家拉麵",
+		"latitude": 25.0446481,
+		"longitude": 121.5444484,
+		"description": "醬油拉麵\n\n溏心蛋"
 	}
 ]
