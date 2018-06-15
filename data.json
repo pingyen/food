@@ -3,19 +3,13 @@
 		"name": "劉山東牛肉麵",
 		"latitude": 25.045701,
 		"longitude": 121.5137617,
-		"description": "清燉牛肉麵 140 加酸菜"
+		"description": "清燉牛肉麵 150 加酸菜"
 	},
 	{
 		"name": "德州美墨炸雞 京站店",
 		"latitude": 25.049311,
 		"longitude": 121.517034,
 		"description": "炸雞胗 半打 89\n\n京站 B2"
-	},
-	{
-		"name": "臺大農場 農產品展示中心 舟山店",
-		"latitude": 25.015863, 
-		"longitude": 121.538122,
-		"description": "茶香冰淇淋 35"
 	},
 	{
 		"name": "世界美食總匯",
@@ -285,7 +279,7 @@
 		"name": "藏壽司 台北館前店",
 		"latitude": 25.045657,
 		"longitude": 121.514739,
-		"description": "毛豆\n\n豆乳甜甜圈\n\n山葵"
+		"description": "毛豆\n\n豆乳甜甜圈\n\n炸花枝\n\n山葵"
 	},
 	{
 		"name": "種福園",
@@ -297,7 +291,7 @@
 		"name": "寧夏夜市 林記麻辣臭豆腐",
 		"latitude": 25.056076,
 		"longitude": 121.515275,
-		"description": "麻辣綜合"
+		"description": "鴨血豆腐"
 	},
 	{
 		"name": "穆記牛肉麵",
@@ -354,18 +348,6 @@
 		"description": "鵝心肝胗"
 	},
 	{
-		"name": "輔大花園夜市 鬪鷄三星蔥腿板燒",
-		"latitude": 25.0384192,
-		"longitude": 121.4278091,
-		"description": "醬燒 60\n\n鹽燒 60"
-	},
-	{
-		"name": "輔大花園夜市 麥格問",
-		"latitude": 25.0386479,
-		"longitude": 121.427344,
-		"description": "優格白葡萄"
-	},
-	{
 		"name": "天喜迷你火鍋",
 		"latitude": 25.0539009,
 		"longitude": 121.5133307,
@@ -411,7 +393,7 @@
 		"name": "YAYOI 彌生軒 懷寧店",
 		"latitude": 25.0452534,
 		"longitude": 121.5143078,
-		"description": "鰻魚三吃\n\n蒸蛋"
+		"description": "鰻魚三吃\n\n六彩拌飯\n\n蒸蛋"
 	},
 	{
 		"name": "老牌張豬腳",
@@ -483,19 +465,13 @@
 		"name": "柴寮鯊魚烟",
 		"latitude": 25.0608786,
 		"longitude": 121.5146768,
-		"description": "綜合鯊魚烟 100\n\n沙拉飛卷 150\n\n排骨酥麵 80"
+		"description": "綜合鯊魚烟 100\n\n曼波魚膘 150\n\n沙拉飛卷 150\n\n排骨酥麵 80"
 	},
 	{
 		"name": "油豆腐細粉",
 		"latitude": 25.044785,
 		"longitude": 121.516934,
 		"description": "牛肉細粉 110"
-	},
-	{
-		"name": "珍煮丹 北車開封店",
-		"latitude": 25.046105,
-		"longitude": 121.513906,
-		"description": "泰泰鮮奶茶珍珠 大杯 75\n\n珍珠紅茶拿鐵 大杯 70"
 	},
 	{
 		"name": "寧夏夜市 牛媽媽沙茶牛肉",
@@ -522,18 +498,6 @@
 		"description": "炸魚肉米粉 80"
 	},
 	{
-		"name": "大苑子 台北錦西店",
-		"latitude": 25.0604169,
-		"longitude": 121.5219597,
-		"description": "愛文芒果冰沙 75"
-	},
-	{
-		"name": "了凡香港油雞飯麵",
-		"latitude": 25.0460861,
-		"longitude": 121.5168596,
-		"description": "蘿蔔排骨湯\n\n撈麵"
-	},
-	{
 		"name": "涓豆腐 台北車站店",
 		"latitude": 25.0475394,
 		"longitude": 121.5170563,
@@ -550,12 +514,6 @@
 		"latitude": 25.012203,
 		"longitude": 121.53541,
 		"description": "雞豬烤肉 兩人 310 三人 460"
-	},
-	{
-		"name": "駱姐正雞酒 新光三越南西店",
-		"latitude": 25.0522629,
-		"longitude": 121.5206815,
-		"description": "四物雞套餐 169\n\n二館 B1"
 	},
 	{
 		"name": "牛肉陳",
@@ -603,7 +561,7 @@
 		"name": "臺客炸雞",
 		"latitude": 25.056881,
 		"longitude": 121.516867,
-		"description": "鹽酥雞"
+		"description": "鹽酥雞\n\n章魚足"
 	},
 	{
 		"name": "寧夏夜市 里長伯",
@@ -627,7 +585,7 @@
 		"name": "六堆伙房中山店",
 		"latitude": 25.0526,
 		"longitude": 121.522369,
-		"description": "菜尾鍋\n\n東方醉美人"
+		"description": "菜尾鍋"
 	},
 	{
 		"name": "老攤肉粥",
@@ -664,5 +622,11 @@
 		"latitude": 25.0446481,
 		"longitude": 121.5444484,
 		"description": "醬油拉麵\n\n溏心蛋"
+	},
+	{
+		"name": "東京油組 華山店",
+		"latitude": 25.0440709,
+		"longitude": 121.525516,
+		"description": "招牌醬油油麵 + B 組合"
 	}
 ]
