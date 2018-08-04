@@ -628,5 +628,11 @@
 		"latitude": 25.0440709,
 		"longitude": 121.525516,
 		"description": "招牌醬油油麵 + B 組合"
+	},
+	{
+		"name": "季哲廣東粥",
+		"latitude": 25.056690,
+		"longitude": 121.515525,
+		"description": "皮蛋廣東粥 75"
 	}
 ]
