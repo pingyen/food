@@ -634,5 +634,11 @@
 		"latitude": 25.056690,
 		"longitude": 121.515525,
 		"description": "皮蛋廣東粥 75"
+	},
+	{
+		"name": "羊肉王",
+		"latitude": 25.0538055,
+		"longitude": 121.5160163,
+		"description": "帶皮羊肉鍋麵線 200"
 	}
 ]
