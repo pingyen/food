@@ -81,13 +81,13 @@
 		"name": "IKEA 敦北店",
 		"latitude": 25.052339,
 		"longitude": 121.548571,
-		"description": "牛豬肉丸\n\n豬肋排\n\n小龍蝦"
+		"description": "牛豬肉丸\n\n豬肋排\n\n小龍蝦\n\n牛排\n\n豬膝"
 	},
 	{
 		"name": "IKEA 新莊店",
 		"latitude": 25.0412585,
 		"longitude": 121.464812,
-		"description": "牛豬肉丸\n\n豬肋排\n\n小龍蝦"
+		"description": "牛豬肉丸\n\n豬肋排\n\n小龍蝦\n\n牛排\n\n豬膝"
 	},
 	{
 		"name": "巧之味",
@@ -109,8 +109,8 @@
 	},
 	{
 		"name": "阿男麻油雞",
-		"latitude": 25.028593,
-		"longitude": 121.506391,
+		"latitude": 25.0289625,
+		"longitude": 121.5065852,
 		"description": "雞腿麵線"
 	},
 	{
@@ -142,6 +142,12 @@
 		"latitude": 25.0526804,
 		"longitude": 121.606615,
 		"description": "海鮮牛肉豆腐煲\n\n免費豆腐冰淇淋"
+	},
+	{
+		"name": "北村豆腐家 統一時代台北店",
+		"latitude": 25.0407037,
+		"longitude": 121.5630931,
+		"description": "海陸嫩豆腐煲 牛"
 	},
 	{
 		"name": "紅蜻蜓食事處",
@@ -256,6 +262,12 @@
 		"latitude": 25.0304334,
 		"longitude": 121.5548067,
 		"description": "小籠包\n\n酸辣湯"
+	},
+	{
+		"name": "新營人牛肉",
+		"latitude": 25.0657888,
+		"longitude": 121.510933,
+		"description": "炒牛雜"
 	},
 	{
 		"name": "保記小籠包",
@@ -583,8 +595,8 @@
 	},
 	{
 		"name": "蘇記玉米排骨湯",
-		"latitude": 25.0590143,
-		"longitude": 121.5258647,
+		"latitude": 25.059248,
+		"longitude": 121.525460,
 		"description": "玉米排骨湯"
 	},
 	{
