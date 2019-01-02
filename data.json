@@ -3,19 +3,13 @@
 		"name": "劉山東牛肉麵",
 		"latitude": 25.045701,
 		"longitude": 121.5137617,
-		"description": "清燉牛肉麵 加酸菜"
+		"description": "清燉牛肉麵\n\n清燉半筋半肉麵\n\n豆干\n\n海帶\n\n加酸菜\n\n建議下午前往"
 	},
 	{
 		"name": "德州美墨炸雞 京站店",
 		"latitude": 25.049311,
 		"longitude": 121.517034,
 		"description": "炸雞胗 半打\n\n京站 B2"
-	},
-	{
-		"name": "世界美食總匯",
-		"latitude": 25.058262,
-		"longitude": 121.5127071,
-		"description": "嘴邊肉\n\n24 小時營業\n\n月第四個六日公休"
 	},
 	{
 		"name": "合歡刀削麵館",
@@ -138,10 +132,10 @@
 		"description": "4 個 20 元\n\n10 個 50 元"
 	},
 	{
-		"name": "豆腐村 南港店",
-		"latitude": 25.0526804,
-		"longitude": 121.606615,
-		"description": "海鮮牛肉豆腐煲\n\n免費豆腐冰淇淋"
+		"name": "豆腐村 台北站前店",
+		"latitude": 25.0461278,
+		"longitude": 121.5131363,
+		"description": "海鮮牛肉豆腐煲\n\n免費豆腐冰淇淋\n\n新光三越 站前店 B2"
 	},
 	{
 		"name": "北村豆腐家 統一時代台北店",
@@ -160,12 +154,6 @@
 		"latitude": 25.082858,
 		"longitude": 121.547137,
 		"description": "海鮮總匯黑墨汁波特酒麵 細麵\n\n香蒜海鮮麵 細麵\n\n培根雞肉大凱薩沙拉\n\n每日湯\n\n冰紅茶\n\n週日公休"
-	},
-	{
-		"name": "餡老滿 南港旗艦店",
-		"latitude": 25.057297,
-		"longitude": 121.61647,
-		"description": "松花皮蛋豬肉水餃\n\n酸辣湯"
 	},
 	{
 		"name": "黃媽媽米粉湯",
@@ -570,7 +558,7 @@
 		"description": "香菇雞湯"
 	},
 	{
-		"name": "六堆伙房中山店",
+		"name": "六堆伙房 中山店",
 		"latitude": 25.0526,
 		"longitude": 121.522369,
 		"description": "菜尾鍋"
@@ -628,5 +616,23 @@
 		"latitude": 24.251611,
 		"longitude": 120.719178,
 		"description": "魚翅干貝羹"
+	},
+	{
+		"name": "鬪雞三星蔥腿板燒",
+		"latitude": 25.0657922,
+		"longitude": 121.5004875,
+		"description": "鹽燒"
+	},
+	{
+		"name": "鼎品滷味",
+		"latitude": 25.0647906,
+		"longitude": 121.5112067,
+		"description": "豬腱\n\n鳥蛋"
+	},
+	{
+		"name": "阿春粥店",
+		"latitude": 25.066117,
+		"longitude": 121.511111,
+		"description": "嘴邊肉"
 	}
 ]
