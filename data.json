@@ -513,7 +513,7 @@
 		"name": "頂尖高手 無骨夢幻鹹酥雞 南陽店",
 		"latitude": 25.045207,
 		"longitude": 121.516013,
-		"description": "鹽酥雞\n\n柳葉魚"
+		"description": "鹽酥雞\n\n柳葉魚\n\n雞胗\n\n雞心"
 	},
 	{
 		"name": "伊洛瓦底",
@@ -634,5 +634,11 @@
 		"latitude": 25.066117,
 		"longitude": 121.511111,
 		"description": "嘴邊肉"
+	},
+	{
+		"name": "愛快義大利麵",
+		"latitude": 25.0524715,
+		"longitude": 121.5207044,
+		"description": "炭烤沙朗牛排通心麵 + A 套餐\n\n誠品南西 B1"
 	}
 ]
