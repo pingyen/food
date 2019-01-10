@@ -640,5 +640,11 @@
 		"latitude": 25.0524715,
 		"longitude": 121.5207044,
 		"description": "炭烤沙朗牛排通心麵 + A 套餐\n\n誠品南西 B1"
+	},
+	{
+		"name": "台灣添虱目魚",
+		"latitude": 25.042868,
+		"longitude": 121.5139461,
+		"description": "煎魚腸"
 	}
 ]
