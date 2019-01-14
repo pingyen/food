@@ -664,5 +664,17 @@
 		"latitude": 25.0636929,
 		"longitude": 121.5089303,
 		"description": "臭豆腐"
+	},
+	{
+		"name": "果果香",
+		"latitude": 25.0444411,
+		"longitude": 121.5154878,
+		"description": "綜合果汁 無糖\n\n綜合冰沙 無糖"
+	},
+	{
+		"name": "三代魚翅肉羹 公園店",
+		"latitude": 25.0440642,
+		"longitude": 121.5164519,
+		"description": "魚翅肉羹飯"
 	}
 ]
