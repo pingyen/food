@@ -656,13 +656,13 @@
 	{
 		"name": "延三夜市 大腸麵線 肉圓 油粿",
 		"latitude": 25.0644685,
-		"longitude": 121.5111528,
+		"longitude": 121.511023,
 		"description": "清麵線"
 	},
 	{
 		"name": "延三夜市 素臭豆腐 麵線",
-		"latitude": 25.0636929,
-		"longitude": 121.5089303,
+		"latitude": 25.063725,
+		"longitude": 121.511074,
 		"description": "臭豆腐"
 	},
 	{
@@ -676,5 +676,17 @@
 		"latitude": 25.0440642,
 		"longitude": 121.5164519,
 		"description": "魚翅肉羹飯"
+	},
+	{
+		"name": "麵屋武藏 本店",
+		"latitude": 25.0459993,
+		"longitude": 121.5148527,
+		"description": "蒜味雞白湯\n\nHOYII B1"
+	},
+	{
+		"name": "灶頂 原汁排骨湯",
+		"latitude": 25.063895,
+		"longitude": 121.511289,
+		"description": "原汁排骨湯"
 	}
 ]
