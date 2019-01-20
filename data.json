@@ -627,7 +627,7 @@
 		"name": "鼎品滷味",
 		"latitude": 25.0647906,
 		"longitude": 121.5112067,
-		"description": "豬腱\n\n鳥蛋"
+		"description": "豬腱\n\n鳥蛋\n\n頭骨肉"
 	},
 	{
 		"name": "阿春粥店",
@@ -688,5 +688,35 @@
 		"latitude": 25.063895,
 		"longitude": 121.511289,
 		"description": "原汁排骨湯"
+	},
+	{
+		"name": "賣麵炎仔",
+		"latitude": 25.061094,
+		"longitude": 121.509812,
+		"description": "湯麵\n\n腰只 乾"
+	},
+	{
+		"name": "聰明油飯",
+		"latitude": 24.9907325,
+		"longitude": 121.53938,
+		"description": "蟹鮑羹"
+	},
+	{
+		"name": "吳記螃蟹羹",
+		"latitude": 25.1285326,
+		"longitude": 121.7428814,
+		"description": "螃蟹羹"
+	},
+	{
+		"name": "紀家豬腳",
+		"latitude": 25.1288786,
+		"longitude": 121.7438857,
+		"description": "豬腳"
+	},
+	{
+		"name": "景美夜市 屏東清蒸肉圓",
+		"latitude": 24.9924692,
+		"longitude": 121.5416287,
+		"description": "肉圓"
 	}
 ]
