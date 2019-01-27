@@ -33,7 +33,7 @@
 		"name": "無名日本料理",
 		"latitude": 25.041404,
 		"longitude": 121.50459,
-		"description": "蛋包飯\n\n營業時間 1630 - 0200"
+		"description": "蛋包飯\n\n章魚沙拉\n\n燒雞腿\n\n味噌湯\n\n營業時間 1630 - 0200"
 	},
 	{
 		"name": "珍珍海產粥",
@@ -243,7 +243,7 @@
 		"name": "寧夏夜市 焗烤海鮮貝",
 		"latitude": 25.055631942978,
 		"longitude": 121.51514555798,
-		"description": "小 40 三個 100\n\n大 50 三個 130"
+		"description": "焗烤海鮮貝"
 	},
 	{
 		"name": "正好鮮肉小籠包 通化店",
@@ -267,7 +267,7 @@
 		"name": "雞窩",
 		"latitude": 25.0299736,
 		"longitude": 121.551319,
-		"description": "砂鍋土雞湯\n\n小 360 1 - 2 人份\n\n中 1400 4 - 6 人份\n\n大 2400 8 - 12 人份"
+		"description": "砂鍋土雞湯"
 	},
 	{
 		"name": "寧夏夜市 洪記關東煮",
@@ -327,7 +327,7 @@
 		"name": "嘉義鮑魚海產粥",
 		"latitude": 25.066935,
 		"longitude": 121.511086,
-		"description": "鮑魚海產粥 70"
+		"description": "鮑魚海產粥"
 	},
 	{
 		"name": "雙連鵝肉莊",
@@ -345,7 +345,7 @@
 		"name": "雅米花生捲冰淇淋 寧夏店",
 		"latitude": 25.055824, 
 		"longitude": 121.515235,
-		"description": "花生捲冰淇淋 一份 45 三份 120"
+		"description": "花生捲冰淇淋"
 	},
 	{
 		"name": "台灣塩酥雞",
@@ -357,7 +357,7 @@
 		"name": "愛弟豆花",
 		"latitude": 25.0800137,
 		"longitude": 121.547772,
-		"description": "冰檸檬花生豆花 加大 50"		
+		"description": "冰檸檬花生豆花"
 	},
 	{
 		"name": "御牛殿",
@@ -603,13 +603,13 @@
 		"name": "季哲廣東粥",
 		"latitude": 25.056690,
 		"longitude": 121.515525,
-		"description": "皮蛋廣東粥 75"
+		"description": "皮蛋廣東粥"
 	},
 	{
 		"name": "羊肉王",
 		"latitude": 25.0538055,
 		"longitude": 121.5160163,
-		"description": "帶皮羊肉鍋麵線 200"
+		"description": "帶皮羊肉鍋麵線"
 	},
 	{
 		"name": "廟東清蒸蝦仁肉圓",
@@ -760,5 +760,17 @@
 		"latitude": 25.0645209,
 		"longitude": 121.5111467,
 		"description": "麻油雞腿\n\n高麗菜水餃"
+	},
+	{
+		"name": "hot 7 家樂福桂林店",
+		"latitude": 25.0379015,
+		"longitude": 121.505719,
+		"description": "香蒜炙燒牛排\n\n香煎櫻桃鴨腿\n\n嫩煎豚五花\n\n黃金雞腿燒\n\n香煎和風烏魚\n\n家樂福桂林店 4 樓"
+	},
+	{
+		"name": "百八魚場 家樂福重慶店",
+		"latitude": 25.0589973,
+		"longitude": 121.5135981,
+		"description": "味噌湯喝到飽\n\n三色拼盤 不要黑豆\n\n綜合燒霜丼\n\n雞唐揚"
 	}
 ]
