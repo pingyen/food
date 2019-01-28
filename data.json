@@ -133,8 +133,8 @@
 	},
 	{
 		"name": "豆腐村 台北站前店",
-		"latitude": 25.0461278,
-		"longitude": 121.5131363,
+		"latitude": 25.046141,
+		"longitude": 121.515331,
 		"description": "海鮮牛肉豆腐煲\n\n免費豆腐冰淇淋\n\n新光三越 站前店 B2"
 	},
 	{
@@ -433,7 +433,7 @@
 	},
 	{
 		"name": "天仁 凱撒店",
-		"latitude": 25.046199,
+		"latitude": 25.046291,
 		"longitude": 121.516417,
 		"description": "913 茶王 去冰 去糖 茶濃 大杯"
 	},
@@ -442,12 +442,6 @@
 		"latitude": 25.0608786,
 		"longitude": 121.5146768,
 		"description": "綜合鯊魚烟\n\n曼波魚膘\n\n沙拉飛卷\n\n排骨酥麵"
-	},
-	{
-		"name": "油豆腐細粉",
-		"latitude": 25.044785,
-		"longitude": 121.516934,
-		"description": "牛肉細粉\n\n海帶\n\n豆干"
 	},
 	{
 		"name": "寧夏夜市 牛媽媽沙茶牛肉",
@@ -567,7 +561,7 @@
 		"name": "老攤肉粥",
 		"latitude": 25.057185,
 		"longitude": 121.515567,
-		"description": "肉粥\n\n綜合海鮮\n\n瘦肉"
+		"description": "肉粥\n\n綜合海鮮\n\n瘦肉\n\n營業時間 早上 5 - 11"
 	},
 	{
 		"name": "洋朵 重慶店",
@@ -679,8 +673,8 @@
 	},
 	{
 		"name": "麵屋武藏 本店",
-		"latitude": 25.0459993,
-		"longitude": 121.5148527,
+		"latitude": 25.046097,
+		"longitude": 121.517041,
 		"description": "蒜味雞白湯\n\n焦糖起司布丁\n\nHOYII B1"
 	},
 	{
