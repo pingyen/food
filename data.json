@@ -774,9 +774,15 @@
 		"description": "白菜滷"
 	},
 	{
-		"name": "延三夜市 張媽媽油飯",
+		"name": "延三張媽媽油飯",
 		"latitude": 25.065547,
 		"longitude": 121.511015,
 		"description": "肉骨湯"
+	},
+	{
+		"name": "台南鱔魚麵熱炒專家",
+		"latitude": 25.065584,
+		"longitude": 121.511144,
+		"description": "炒飯\n\n炒麵\n\n蛤仔湯\n\n高麗菜心\n\n沙茶牛肉"
 	}
 ]
