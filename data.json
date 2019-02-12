@@ -784,5 +784,17 @@
 		"latitude": 25.065584,
 		"longitude": 121.511144,
 		"description": "炒飯\n\n炒麵\n\n蛤仔湯\n\n高麗菜心\n\n沙茶牛肉"
+	},
+	{
+		"name": "牛爺爺",
+		"latitude": 25.0684842,
+		"longitude": 121.5109942,
+		"description": "炒青菜\n\n牛肉燴飯 沙茶\n\n牛雜湯"
+	},
+	{
+		"name": "廖家牛肉麵",
+		"latitude": 25.030243,
+		"longitude": 121.525469,
+		"description": "牛肉麵"
 	}
 ]
