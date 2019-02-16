@@ -729,7 +729,7 @@
 		"name": "延三夜市 斗六當歸鴨",
 		"latitude": 25.0641109,
 		"longitude": 121.5110944,
-		"description" : "當歸鴨腿\n\n免費續湯"
+		"description" : "鴨腿飯\n\n當歸鴨腿\n\n免費續湯"
 	},
 	{
 		"name": "花草果香 站前店",
@@ -790,5 +790,17 @@
 		"latitude": 25.030243,
 		"longitude": 121.525469,
 		"description": "牛肉麵"
+	},
+	{
+		"name": "三明堂",
+		"latitude": 25.118233,
+		"longitude": 121.532948,
+		"description": "草莓大福\n\n醬油丸子"
+	},
+	{
+		"name": "土庫鴨肉富 延三店",
+		"latitude": 25.065188,
+		"longitude": 121.510972,
+		"description": "當歸鴨腿"
 	}
 ]
