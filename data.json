@@ -629,6 +629,12 @@
 		"longitude": 121.5207044,
 		"description": "炭烤沙朗牛排通心麵 + A 套餐\n\n誠品南西 B1"
 	},
+        {
+                "name": "牛角次男坊 誠品南西店",
+                "latitude": 25.0524300,
+                "longitude": 121.5206500,
+                "description": "醬燒次男坊橫膈膜丼\n\nB1"
+        },
 	{
 		"name": "台灣添虱目魚",
 		"latitude": 25.042868,
