@@ -171,7 +171,7 @@
 		"name": "居和熹",
 		"latitude": 25.0813841,
 		"longitude": 121.5793233,
-		"description": "原特製蒸餃小籠包\n\n小籠湯包\n\n鮮菜肉蒸餃\n\n私房酸辣湯\n\n西式巧菇濃湯"
+		"description": "小籠湯包\n\n鮮菜肉蒸餃\n\n私房酸辣湯\n\n西式巧菇濃湯"
 	},
 	{
 		"name": "海角那一邊恆春綠豆蒜",
@@ -303,7 +303,7 @@
 		"name": "爭鮮 林森店",
 		"latitude": 25.0544679,
 		"longitude": 121.5248126,
-		"description": "焦糖鮭魚肚\n\n鮭魚肚\n\n鮭魚生魚片\n\n鮭魚小菜軍艦\n\n鰻魚\n\n星鰻手捲\n\n北極甜蝦"
+		"description": "焦糖鮭魚肚\n\n鮭魚肚\n\n鮭魚生魚片\n\n鮭魚小菜軍艦\n\n鰻魚\n\n星鰻手捲\n\n北極甜蝦\n\n淡菜"
 	},
 	{
 		"name": "麥食達",
@@ -783,7 +783,7 @@
 		"name": "台南鱔魚麵熱炒專家",
 		"latitude": 25.065584,
 		"longitude": 121.511144,
-		"description": "炒飯\n\n炒麵\n\n蛤仔湯\n\n高麗菜心\n\n沙茶牛肉"
+		"description": "蛤仔湯\n\n高麗菜心\n\n沙茶牛肉"
 	},
 	{
 		"name": "牛爺爺",
@@ -826,5 +826,11 @@
 		"latitude": 25.057355,
 		"longitude": 121.519243,
 		"description": "仙草雞\n\n四物雞"
+	},
+	{
+		"name": "石研室",
+		"latitude": 25.0460478,
+		"longitude": 121.5170292,
+		"description": "板腱牛 火焰 增量"
 	}
 ]
