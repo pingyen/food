@@ -832,5 +832,11 @@
 		"latitude": 25.046802,
 		"longitude": 121.517188,
 		"description": "干貝燒鮭丼\n\nB1 台鐵捷運連通道"
+	},
+	{
+		"name": "水蛙園",
+		"latitude": 25.0583593,
+		"longitude": 121.5113836,
+		"description": "紅槽燜雞\n\n五味花枝"
 	}
 ]
