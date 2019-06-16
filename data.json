@@ -681,7 +681,7 @@
 		"name": "賣麵炎仔",
 		"latitude": 25.061094,
 		"longitude": 121.509812,
-		"description": "湯麵\n\n腰只 乾"
+		"description": "燒肉\n\n湯麵\n\n腰只 乾"
 	},
 	{
 		"name": "聰明油飯",
@@ -850,5 +850,17 @@
 		"latitude": 25.044236,
 		"longitude": 121.510399,
 		"description": "西瓜\n\n芭樂\n\n百香果\n\n二樓"
+	},
+	{
+		"name": "延三夜市 鐵板炒飯 蚵仔煎",
+		"latitude": 25.065156,
+		"longitude": 121.511121,
+		"description": "蛋包飯"
+	},
+	{
+		"name": "大鼎肉羹",
+		"latitude": 25.064054,
+		"longitude": 121.511187,
+		"description": "蛋包飯\n\n海鮮湯\n\n蛋包蝦仁湯"
 	}
 ]
