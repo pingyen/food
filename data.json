@@ -874,5 +874,11 @@
         "latitude": 25.052422,
         "longitude": 121.520627,
         "description": "炭烤雞豬雙麴定食\n\nB1 美食街"
+    },
+    {
+	"name": "延三溫體牛",
+        "latitude": 25.065324,
+	"longitude": 121.511003,
+	"description": "牛肉燴飯\n\n清燉牛雜湯"
     }
 ]
