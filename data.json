@@ -880,5 +880,11 @@
         "latitude": 25.065324,
 	"longitude": 121.511003,
 	"description": "牛肉燴飯\n\n清燉牛雜湯"
+    },
+    {
+	"name": "叁x叁輕食便當",
+	"latitude": 25.044468,
+	"longitude": 121.515453,
+	"description": "卡滋卡滋烤雞腿串\n\n大人系微醺燉牛肉"
     }
 ]
