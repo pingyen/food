@@ -886,5 +886,17 @@
 	"latitude": 25.044468,
 	"longitude": 121.515453,
 	"description": "卡滋卡滋烤雞腿串\n\n大人系微醺燉牛肉"
+    },
+    {
+	"name": "金好呷好吃雞肉飯",
+	"latitude": 25.071846,
+	"longitude": 121.515533,
+	"description": "烏骨雞\n\n雞高湯"
+    },
+    {
+	"name": "虎次日式炸牛排專賣店 ATT 4 FUN 信義店",
+	"latitude": 25.035313,
+	"longitude": 121.566066,
+	"description": "炸南方黑鮪菲力\n\n炸冷藏黑牛霜降"
     }
 ]
