@@ -922,5 +922,11 @@
 	"latitude": 25.052193,
 	"longitude": 121.520770,
 	"description": "海南雞腿飯\n\n誠品南西店 B1"
+    },
+    {
+        "name": "北北車",
+	"latitude": 25.045155,
+	"longitude": 121.516297,
+	"description": "香菇燉雞湯"
     }
 ]
