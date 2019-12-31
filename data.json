@@ -3,7 +3,7 @@
         "name": "劉山東牛肉麵",
         "latitude": 25.045701,
         "longitude": 121.5137617,
-        "description": "清燉牛肉麵\n\n清燉半筋半肉麵\n\n豆干\n\n海帶\n\n加酸菜\n\n建議下午前往"
+        "description": "清燉牛肉麵\n\n清燉半筋半肉麵\n\n豆干\n\n海帶\n\n建議下午前往"
     },
     {
         "name": "德州美墨炸雞 京站店",
@@ -13,8 +13,8 @@
     },
     {
         "name": "合歡刀削麵館",
-        "latitude": 25.0325969,
-        "longitude": 121.5181399,
+        "latitude": 25.032698,
+        "longitude": 121.523011,
         "description": "蕃茄煮牛肉麵"
     },
     {
@@ -61,8 +61,8 @@
     },
     {
         "name": "佑壽司",
-        "latitude": 23.5561755,
-        "longitude": 120.4323054,
+        "latitude": 23.555831,
+        "longitude": 120.432248,
         "description": "握壽司\n\n蒸蛋\n\n味噌湯"
     },
     {
@@ -240,12 +240,6 @@
         "description": "下水湯"
     },
     {
-        "name": "寧夏夜市 焗烤海鮮貝",
-        "latitude": 25.055535,
-        "longitude": 121.5152683,
-        "description": "焗烤海鮮貝"
-    },
-    {
         "name": "正好鮮肉小籠包 通化店",
         "latitude": 25.0304334,
         "longitude": 121.5548067,
@@ -420,7 +414,7 @@
         "description": "赤肉咖哩飯"
     },
     {
-        "name": "太陽蕃茄拉麵",
+        "name": "太陽蕃茄拉麵 站前本店",
         "latitude": 25.046333,
         "longitude": 121.516358,
         "description": "雞骨白湯拉麵 亂切麵"
@@ -940,5 +934,12 @@
 	"latitude": 25.064365,
 	"longitude": 121.511196,
 	"description": "椒鹽排骨\n\n芹菜中卷\n\n牛肉炒麵\n\n什錦炒麵"
+    },
+    {
+	"name": "寧夏夜市 天品滷味坊",
+	"latitude": 25.056987,
+	"longitude": 121.515455,
+	"description": "豬腳"
     }
 ]
+
