@@ -940,5 +940,23 @@
         "latitude": 25.056987,
         "longitude": 121.515455,
         "description": "豬腳"
+    },
+    {
+        "name": "瑞記海南雞飯 南西店",
+        "latitude": 25.052808,
+        "longitude": 121.520771,
+        "description": "香菇雞湯\n\n海南雞腿\n\n新光三越南西店三館 B1"
+    },
+    {
+        "name": "杭州小籠湯包",
+        "latitude": 25.034067,
+        "longitude": 121.523728,
+        "description": "蟹黃蝦燒賣"
+    },
+    {
+        "name": "樂饕牛排館",
+        "latitude": 25.065697,
+        "longitude": 121.510954,
+        "description": "菲力"
     }
 ]
