@@ -958,5 +958,17 @@
         "latitude": 25.065697,
         "longitude": 121.510954,
         "description": "菲力"
+    },
+    {
+	"name": "寧夏夜市 天品滷味坊",
+	"latitude": 25.056987,
+	"longitude": 121.515455,
+	"description": "豬腳"
+    },
+    {
+        "name": "油豆腐細粉",
+        "latitude": 25.044792,
+        "longitude": 121.516947,
+        "description": "牛肉細粉"
     }
 ]
