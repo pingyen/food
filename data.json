@@ -970,5 +970,11 @@
         "latitude": 25.044792,
         "longitude": 121.516947,
         "description": "牛肉細粉"
+    },
+    {
+        "name": "汕頭原汁牛肉麵",
+        "latitude": 25.065175,
+        "longitude": 121.511012,
+        "description": "清燉牛肉麵\n\n牛肉\n\n青菜"
     }
 ]
