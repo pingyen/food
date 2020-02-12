@@ -976,5 +976,11 @@
         "latitude": 25.065175,
         "longitude": 121.511012,
         "description": "清燉牛肉麵\n\n牛肉\n\n青菜"
+    },
+    {
+        "name": "郁香花蓮扁食",
+	"latitude": 25.064968,
+        "longitude": 121.511190,
+        "description": "鮮蝦炒手 辣\n\n肝連"
     }
 ]
