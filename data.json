@@ -912,7 +912,7 @@
         "description": "綜合麵\n\n筍片排骨湯"
     },
     {
-        "name": "甘榜馳名海南雞飯",
+        "name": "甘榜馳名海南雞飯 誠品南西店",
         "latitude": 25.052193,
         "longitude": 121.520770,
         "description": "海南雞腿飯\n\n誠品南西店 B1"
@@ -994,5 +994,11 @@
         "latitude": 25.060402,
         "longitude": 121.511948,
         "description": "炸紅燒肉\n\n炸蝦"
+    },
+    {
+        "name": "甘榜馳名海南雞飯",
+        "latitude": 25.051417,
+        "longitude": 121.521028,
+        "description": "海南雞腿飯"
     }
 ]
