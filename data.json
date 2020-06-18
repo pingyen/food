@@ -75,13 +75,13 @@
         "name": "IKEA 敦北店",
         "latitude": 25.0524125,
         "longitude": 121.5485358,
-        "description": "牛豬肉丸\n\n豬肋排\n\n小龍蝦\n\n牛排\n\n豬膝\n\n戰斧豬排\n\n炸雞翅"
+        "description": "牛豬肉丸\n\n豬肋排\n\n小龍蝦\n\n牛排\n\n豬膝\n\n戰斧豬排\n\n炸雞翅\n\n濃湯"
     },
     {
         "name": "IKEA 新莊店",
         "latitude": 25.0415073,
         "longitude": 121.4652713,
-        "description": "牛豬肉丸\n\n豬肋排\n\n小龍蝦\n\n牛排\n\n豬膝\n\n戰斧豬排\n\n炸雞翅"
+        "description": "牛豬肉丸\n\n豬肋排\n\n小龍蝦\n\n牛排\n\n豬膝\n\n戰斧豬排\n\n炸雞翅\n\n濃湯"
     },
     {
         "name": "巧之味",
@@ -417,7 +417,7 @@
         "name": "太陽蕃茄拉麵 站前本店",
         "latitude": 25.046333,
         "longitude": 121.516358,
-        "description": "雞骨白湯拉麵 亂切麵"
+        "description": "雞骨白湯拉麵 混合麵"
     },
     {
         "name": "天仁 武昌店",
@@ -627,7 +627,7 @@
         "name": "台灣添虱目魚",
         "latitude": 25.042868,
         "longitude": 121.5139461,
-        "description": "煎魚腸"
+        "description": "煎魚腸 不辣"
     },
     {
         "name": "祥和蔬食",
@@ -723,7 +723,7 @@
         "name": "延三夜市 斗六當歸鴨",
         "latitude": 25.0641109,
         "longitude": 121.5110944,
-        "description": "鴨腿飯\n\n當歸鴨腿\n\n免費續湯"
+        "description": "鴨腿飯\n\n當歸鴨腿\n\n當歸豬心湯\n\n滷蛋\n\n免費續湯"
     },
     {
         "name": "花草果香 站前店",
@@ -736,12 +736,6 @@
         "latitude": 25.0458136,
         "longitude": 121.5147159,
         "description": "鮪魚大腹"
-    },
-    {
-        "name": "延三夜市 手工水餃 麻油雞",
-        "latitude": 25.0645209,
-        "longitude": 121.5111467,
-        "description": "麻油雞腿\n\n高麗菜水餃"
     },
     {
         "name": "hot 7 家樂福桂林店",
@@ -1012,5 +1006,17 @@
         "latitude": 25.043724,
         "longitude": 121.522036,
         "description": "蛤蜊燉雞湯\n\n滷蛋\n\n嘴邊肉"
+    },
+    {
+        "name": "胖哥焢肉飯",
+        "latitude": 25.044215,
+        "longitude": 121.516505,
+        "description": "海鮮麵"
+    },
+    {
+        "name": "源士林 信陽店",
+        "latitude": 25.044842,
+        "longitude": 121.516028,
+        "description": "粥霸 + 青菜 辣蘿蔔\n\n宿霧菜粥 辣蘿蔔"
     }
 ]
