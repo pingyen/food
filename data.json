@@ -1024,5 +1024,11 @@
         "latitude": 25.064979,
         "longitude": 121.511167,
         "description": "鱔魚炒麵\n\n炒青菜\n\n薑絲羊肉湯"
+    },
+    {
+        "name": "福州川味正宗牛肉麵",
+        "latitude": 25.060094,
+        "longitude": 121.511481,
+        "description": "招牌三合一麵\n\n海帶"
     }
 ]
