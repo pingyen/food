@@ -1030,5 +1030,11 @@
         "latitude": 25.060094,
         "longitude": 121.511481,
         "description": "招牌三合一麵\n\n海帶"
+    },
+    {
+        "name": "良友藥燉排骨",
+        "latitude": 25.065025,
+        "longitude": 121.511186,
+        "description": "白菜滷"
     }
 ]
