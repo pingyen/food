@@ -93,7 +93,7 @@
         "name": "龍記搶鍋麵",
         "latitude": 25.0418629,
         "longitude": 121.5108845,
-        "description": "肉絲麵 加蒜\n\n豬腳"
+        "description": "肉絲麵 加蒜\n\n豬腳\n\n豬耳"
     },
     {
         "name": "龍涎居 雙連店",
@@ -322,12 +322,6 @@
         "latitude": 25.0669346,
         "longitude": 121.5110756,
         "description": "鮑魚海產粥"
-    },
-    {
-        "name": "雙連鵝肉莊",
-        "latitude": 25.0572523,
-        "longitude": 121.5164898,
-        "description": "鵝心肝胗"
     },
     {
         "name": "天喜迷你火鍋",
@@ -1042,5 +1036,23 @@
         "latitude": 25.044316,
         "longitude": 121.545926,
         "description": "徹濃醬油豚骨拉麵 天龍麵"
+    },
+    {
+        "name": "蘇記餃子館",
+        "latitude": 25.042688,
+        "longitude": 121.510975,
+        "description": "三合一\n\n山東雞\n\n什錦炒麵\n\n麻辣海鮮麵"
+    },
+    {
+        "name": "初面",
+        "latitude": 25.044613,
+        "longitude": 121.515326,
+        "description": "蕃茄牛肉刀削麵"
+    },
+    {
+        "name": "延三夜市 老翁家",
+        "latitude": 25.065113,
+        "longitude": 121.511005,
+        "description": "豬腿肉\n\n排骨四神湯"
     }
 ]
