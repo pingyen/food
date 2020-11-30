@@ -129,7 +129,7 @@
         "name": "景美廖家古早味雞蛋糕",
         "latitude": 24.990839,
         "longitude": 121.541726,
-        "description": "4 個 20 元\n\n10 個 50 元"
+        "description": "雞蛋糕"
     },
     {
         "name": "豆腐村 台北站前店",
@@ -273,7 +273,7 @@
         "name": "藏壽司 台北館前店",
         "latitude": 25.0456618,
         "longitude": 121.5147282,
-        "description": "毛豆\n\n豆乳甜甜圈\n\n炸花枝\n\n山葵"
+        "description": "炙烤黑鮪魚中肚\n\n生鮭魚\n\n蒸蛋\n\n毛豆\n\n豆乳甜甜圈\n\n炸花枝\n\n山葵"
     },
     {
         "name": "種福園",
@@ -643,8 +643,8 @@
     },
     {
         "name": "果果香",
-        "latitude": 25.0444411,
-        "longitude": 121.5154878,
+        "latitude": 25.044468,
+        "longitude": 121.5154554,
         "description": "綜合果汁 無糖\n\n綜合冰沙 無糖"
     },
     {
@@ -720,12 +720,6 @@
         "description": "鴨腿飯\n\n當歸鴨腿\n\n當歸豬心湯\n\n滷蛋\n\n免費續湯"
     },
     {
-        "name": "花草果香 站前店",
-        "latitude": 25.045347,
-        "longitude": 121.513369,
-        "description": "花茶調的酒"
-    },
-    {
         "name": "壽司郎 台北館前路店",
         "latitude": 25.0458136,
         "longitude": 121.5147159,
@@ -741,7 +735,7 @@
         "name": "百八魚場 家樂福重慶店",
         "latitude": 25.0591289,
         "longitude": 121.5141907,
-        "description": "味噌湯喝到飽\n\n三色拼盤 不要黑豆\n\n綜合燒霜丼\n\n雞唐揚"
+        "description": "味噌湯喝到飽\n\n龍蝦沙拉\n\n豪華御品丼\n\n御品四彩丼\n\n綜合燒霜丼\n\n雞唐揚"
     },
     {
         "name": "阿子鯊魚煙",
@@ -831,7 +825,7 @@
         "name": "雪王冰淇淋",
         "latitude": 25.044233,
         "longitude": 121.510398,
-        "description": "西瓜\n\n芭樂\n\n百香果\n\n二樓"
+        "description": "西瓜\n\n芭樂\n\n百香果\n\n香蕉\n\n白蘭地\n\n二樓"
     },
     {
         "name": "延三夜市 鐵板炒飯 蚵仔煎",
@@ -865,8 +859,8 @@
     },
     {
         "name": "叁x叁輕食便當",
-        "latitude": 25.044468,
-        "longitude": 121.515453,
+        "latitude": 25.0444411,
+        "longitude": 121.5154554,
         "description": "卡滋卡滋烤雞腿串\n\n大人系微醺燉牛肉"
     },
     {
@@ -1054,5 +1048,11 @@
         "latitude": 25.065113,
         "longitude": 121.511005,
         "description": "豬腿肉\n\n排骨四神湯"
+    },
+    {
+        "name": "吾麻室",
+        "latitude": 25.0444940,
+        "longitude": 121.5154554,
+        "description": "雙拼涼麵 味噌綜合湯"
     }
 ]
