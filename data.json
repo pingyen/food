@@ -372,10 +372,10 @@
         "description": "東坡肉"
     },
     {
-        "name": "清真黃牛肉麵",
+        "name": "烙張清真黃牛肉麵",
         "latitude": 25.045721,
         "longitude": 121.510698,
-        "description": "清燉牛三寶泡餅"
+        "description": "清燉牛三寶泡餅\n\n乾絲\n\n豆芽菜"
     },
     {
         "name": "文化路 生炒螺肉",
@@ -1096,5 +1096,11 @@
         "latitude": 25.06441232962654,
         "longitude": 121.511030682011,
         "description": "牛肉豆腐鍋\n\n牛肉醬石鍋拌飯"
+    },
+    {
+        "name": "夯麵坊 輔大店",
+        "latitude": 25.03188339243033,
+        "longitude": 121.43365069979299,
+        "description": "海鮮總匯焗麵\n\n酥皮海鮮湯"
     }
 ]
