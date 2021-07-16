@@ -990,12 +990,6 @@
         "description": "蛤蜊燉雞湯\n\n滷蛋\n\n嘴邊肉"
     },
     {
-        "name": "胖哥焢肉飯",
-        "latitude": 25.044215,
-        "longitude": 121.516505,
-        "description": "海鮮麵"
-    },
-    {
         "name": "源士林 信陽店",
         "latitude": 25.044842,
         "longitude": 121.516028,
@@ -1006,12 +1000,6 @@
         "latitude": 25.064979,
         "longitude": 121.511167,
         "description": "鱔魚炒麵\n\n炒青菜\n\n薑絲羊肉湯"
-    },
-    {
-        "name": "福州川味正宗牛肉麵",
-        "latitude": 25.060094,
-        "longitude": 121.511481,
-        "description": "招牌三合一麵\n\n海帶"
     },
     {
         "name": "良友藥燉排骨",
@@ -1104,12 +1092,6 @@
         "description": "海鮮總匯焗麵\n\n酥皮海鮮湯"
     },
     {
-        "name": "橫濱羊肉咖哩 赤門亭",
-        "latitude": 25.055168377689693,
-        "longitude": 121.52714589050692,
-        "description": "橫濱羊肉咖哩 經典原味\n\n營業時間 1130 - 1430 1730 - 2030\n\n週三公休\n\n21 起 Bar Ambush"
-    },
-    {
         "name": "矢場味噌豬排 台北東門店",
         "latitude": 25.03403056976884,
         "longitude": 121.52912731758852,
@@ -1126,5 +1108,17 @@
         "latitude": 25.066707900000413,
         "longitude": 121.5370065703473,
         "description": "立吞 立舟旬套餐"
+    },
+    {
+        "name": "徐記涼麵",
+        "latitude": 25.068322447900723,
+        "longitude": 121.51096488319685,
+        "description": "涼麵\n\n味噌綜合湯"
+    },
+    {
+        "name": "涼州街無名涼麵",
+        "latitude": 25.060957119274885,
+        "longitude": 121.51505486815584,
+        "description": "涼麵\n\n味噌綜合湯\n\n嘴邊肉"
     }
 ]
