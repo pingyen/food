@@ -607,8 +607,8 @@
     },
     {
         "name": "阿春粥店",
-        "latitude": 25.066117,
-        "longitude": 121.511111,
+        "latitude": 25.065487003701058,
+        "longitude": 121.51115273440843,
         "description": "嘴邊肉"
     },
     {
@@ -714,12 +714,6 @@
         "description": "招牌功夫銷魂麵\n\n新光三越南西店三館 B1"
     },
     {
-        "name": "延三夜市 斗六當歸鴨",
-        "latitude": 25.0641109,
-        "longitude": 121.5110944,
-        "description": "鴨腿飯\n\n當歸鴨腿\n\n當歸豬心湯\n\n滷蛋\n\n免費續湯"
-    },
-    {
         "name": "壽司郎 台北館前路店",
         "latitude": 25.0458136,
         "longitude": 121.5147159,
@@ -759,7 +753,7 @@
         "name": "牛爺爺",
         "latitude": 25.0684842,
         "longitude": 121.5109942,
-        "description": "炒青菜\n\n牛肉燴飯 沙茶\n\n牛雜湯"
+        "description": "炒青菜\n\n牛肉燴飯 沙茶\n\n牛肉炒麵\n\n牛雜湯\n\n川燙肉片湯"
     },
     {
         "name": "廖家牛肉麵",
@@ -1120,5 +1114,23 @@
         "latitude": 25.060957119274885,
         "longitude": 121.51505486815584,
         "description": "涼麵\n\n味噌綜合湯\n\n嘴邊肉"
+    },
+    {
+        "name": "湯庫",
+        "latitude": 25.0685010926138,
+        "longitude": 121.51095302396675,
+        "description": "金萱"
+    },
+    {
+        "name": "延三夜市 生魚片 鴨肉",
+        "latitude": 25.067981022404183,
+        "longitude": 121.51084199821426,
+        "description": "生魚片"
+    },
+    {
+        "name": "排行榜塩酥雞",
+        "latitude": 25.066235081504427,
+        "longitude": 121.51108837733626,
+        "description": "無骨鹽酥雞 醬汁 胡椒鹽"
     }
 ]
