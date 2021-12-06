@@ -24,12 +24,6 @@
         "description": "雪花牛肉\n\n單點魷魚\n\n滷肉飯\n\n冬瓜冰"
     },
     {
-        "name": "酷爸牛排",
-        "latitude": 25.032596,
-        "longitude": 121.5202176,
-        "description": "日式嫩煎牛排定食"
-    },
-    {
         "name": "珍珍海產粥",
         "latitude": 23.4788845,
         "longitude": 120.4496991,
@@ -255,7 +249,7 @@
         "name": "藏壽司 台北館前店",
         "latitude": 25.0456618,
         "longitude": 121.5147282,
-        "description": "炙烤黑鮪魚中肚\n\n生鮭魚\n\n蒸蛋\n\n毛豆\n\n豆乳甜甜圈\n\n炸花枝\n\n山葵"
+        "description": "蒸蛋\n\n鰻魚\n\n豆乳甜甜圈"
     },
     {
         "name": "種福園",
@@ -672,12 +666,6 @@
         "description": "招牌功夫銷魂麵\n\n新光三越南西店三館 B1"
     },
     {
-        "name": "壽司郎 台北館前路店",
-        "latitude": 25.0458136,
-        "longitude": 121.5147159,
-        "description": "鮪魚大腹"
-    },
-    {
         "name": "hot 7 家樂福桂林店",
         "latitude": 25.037703,
         "longitude": 121.5061818,
@@ -939,7 +927,7 @@
         "name": "源士林 信陽店",
         "latitude": 25.044842,
         "longitude": 121.516028,
-        "description": "粥霸 + 青菜 辣蘿蔔\n\n宿霧菜粥 辣蘿蔔"
+        "description": "粥霸 + 青菜\n\n宿霧菜粥"
     },
     {
         "name": "延三夜市 阿珠壽司",
@@ -1108,5 +1096,41 @@
         "latitude": 25.05352955523391,
         "longitude": 121.51583506384812,
         "description": "脆皮鴨腿飯"
+    },
+    {
+        "name": "你鮮吃雞湯火鍋",
+        "latitude": 25.063520050828842,
+        "longitude": 121.51121844607152,
+        "description": "馬告雞"
+    },
+    {
+        "name": "矢場味噌豬排",
+        "latitude": 25.034030857525508,
+        "longitude": 121.52912999665288,
+        "description": "特大雙醬里肌豬排"
+    },
+    {
+        "name": "藏壽司 中山南西店",
+        "latitude": 25.05312102947414,
+        "longitude": 121.51926860292481,
+        "description": "蒸蛋\n\n鰻魚\n\n豆乳甜甜圈"
+    },
+    {
+        "name": "HAMA 壽司 中山民權店",
+        "latitude": 25.063782896240475,
+        "longitude": 121.52263197114065,
+        "description": "海膽\n\n蟹膏\n\n土瓶蒸"
+    },
+    {
+        "name": "HAMA 壽司 南京復興店",
+        "latitude": 25.051602090632162,
+        "longitude": 121.54517242199057,
+        "description": "海膽\n\n蟹膏\n\n土瓶蒸"
+    },
+    {
+        "name": "薩莉亞 重慶家樂福店",
+        "latitude": 25.059170818075245,
+        "longitude": 121.5138748629494,
+        "description": "烤田螺"
     }
 ]
