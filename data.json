@@ -235,8 +235,8 @@
     },
     {
         "name": "雞窩",
-        "latitude": 25.030013,
-        "longitude": 121.5513372,
+        "latitude": 25.020061032977626,
+        "longitude": 121.55738334250393,
         "description": "砂鍋土雞湯"
     },
     {
@@ -810,12 +810,6 @@
         "description": "烏骨雞\n\n雞高湯"
     },
     {
-        "name": "虎次日式炸牛排專賣店 ATT 4 FUN 信義店",
-        "latitude": 25.035313,
-        "longitude": 121.566066,
-        "description": "炸南方黑鮪菲力\n\n炸冷藏黑牛霜降"
-    },
-    {
         "name": "盛園絲瓜小籠湯包",
         "latitude": 25.033978,
         "longitude": 121.523919,
@@ -1018,12 +1012,6 @@
         "latitude": 25.03188339243033,
         "longitude": 121.43365069979299,
         "description": "海鮮總匯焗麵\n\n酥皮海鮮湯"
-    },
-    {
-        "name": "矢場味噌豬排 台北東門店",
-        "latitude": 25.03403056976884,
-        "longitude": 121.52912731758852,
-        "description": "雙醬大里肌"
     },
     {
         "name": "東一排骨",
