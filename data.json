@@ -1132,5 +1132,11 @@
         "latitude": 25.04467288772726,
         "longitude": 121.51607026229567,
         "description": "甜不辣 不加醬 湯加裡面"
+    },
+    {
+        "name": "BATAVIA",
+        "latitude": 25.042055196239513,
+        "longitude": 121.51394969942932,
+        "description": "仁當牛"
     }
 ]
