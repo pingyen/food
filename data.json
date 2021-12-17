@@ -750,12 +750,6 @@
         "description": "干貝燒鮭丼\n\nB1 台鐵捷運連通道"
     },
     {
-        "name": "水蛙園",
-        "latitude": 25.0583593,
-        "longitude": 121.5113836,
-        "description": "紅槽燜雞\n\n五味花枝\n\n醉雞"
-    },
-    {
         "name": "時懿黃燜雞米飯 左營店",
         "latitude": 22.687863,
         "longitude": 120.309228,
@@ -1138,5 +1132,11 @@
         "latitude": 25.042055196239513,
         "longitude": 121.51394969942932,
         "description": "仁當牛"
+    },
+    {
+        "name": "星島海南雞飯 懷寧店",
+        "latitude": 25.04489528016449,
+        "longitude": 121.51425047364552,
+        "description": "海南雞腿"
     }
 ]
