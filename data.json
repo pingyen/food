@@ -921,7 +921,7 @@
         "name": "延三夜市 阿珠壽司",
         "latitude": 25.064979,
         "longitude": 121.511167,
-        "description": "鱔魚炒麵\n\n炒青菜\n\n薑絲羊肉湯"
+        "description": "鱔魚炒麵\n\n炒青菜\n\n薑絲羊肉湯\n\n綜合握壽司"
     },
     {
         "name": "良友藥燉排骨",
@@ -1138,5 +1138,11 @@
         "latitude": 25.04489528016449,
         "longitude": 121.51425047364552,
         "description": "海南雞腿"
+    },
+    {
+        "name": "橋頭壽司",
+        "latitude": 25.065530296298974,
+        "longitude": 121.51114941109466,
+        "description": "綜合握壽司\n\n蒸蛋\n\n味噌湯\n\n蝦蘆手捲"
     }
 ]
