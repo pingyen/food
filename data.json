@@ -156,12 +156,6 @@
         "description": "小籠湯包\n\n鮮菜肉蒸餃\n\n私房酸辣湯\n\n西式巧菇濃湯"
     },
     {
-        "name": "海角那一邊恆春綠豆蒜",
-        "latitude": 25.0802824,
-        "longitude": 121.5788587,
-        "description": "綠豆蒜冰"
-    },
-    {
         "name": "揚屋日本料理",
         "latitude": 25.0828129,
         "longitude": 121.5470379,
@@ -924,7 +918,7 @@
         "description": "鱔魚炒麵\n\n炒青菜\n\n薑絲羊肉湯\n\n綜合握壽司"
     },
     {
-        "name": "良友藥燉排骨",
+        "name": "良友 藥燉排骨",
         "latitude": 25.065025,
         "longitude": 121.511186,
         "description": "白菜滷"
@@ -987,7 +981,7 @@
         "name": "良友 當歸豬腳",
         "latitude": 25.065742988225875,
         "longitude": 121.51116490154817,
-        "description": "滷豬腳"
+        "description": "菜頭排骨湯\n\n滷豬腳\n\n白菜滷"
     },
     {
         "name": "戴記獨臭之家",
