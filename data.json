@@ -309,7 +309,7 @@
         "name": "台灣塩酥雞",
         "latitude": 25.0797107,
         "longitude": 121.5466297,
-        "description": "雞心 雞胗 章魚腳"
+        "description": "雞心\n\n雞胗\n\n章魚腳"
     },
     {
         "name": "愛弟豆花",
@@ -939,7 +939,7 @@
         "name": "吾麻室",
         "latitude": 25.0444940,
         "longitude": 121.5154554,
-        "description": "雙拼涼麵 味噌綜合湯"
+        "description": "雙拼涼麵\n\n味噌綜合湯"
     },
     {
         "name": "成都抄手麵食",
@@ -1252,5 +1252,11 @@
         "latitude": 25.05657820113996,
         "longitude": 121.51549711045759,
         "description": "生蠔\n\n干貝\n\n鮑魚"
+    },
+    {
+        "name": "旗魚新竹米粉",
+        "latitude": 25.067303488910508,
+        "longitude": 121.51105119943165,
+        "description": "炸蝦\n\n炸魚排\n\n紅燒肉\n\n米粉湯"
     }
 ]
