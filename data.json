@@ -1276,5 +1276,17 @@
         "latitude": 25.04481549407116,
         "longitude": 121.51597744899284,
         "description": "魚板串\n\n白蘿蔔"
+    },
+    {
+        "name": "SUKIYA 台北站前店",
+        "latitude": 25.045055587726107,
+        "longitude": 121.51601933775746,
+        "description": "蔥溫玉牛丼\n\n炸雞\n\n青菜\n\n海瓜子味噌湯\n\n牛肉彩便當 外帶"
+    },
+    {
+        "name": "SUKIYA 民權西路店",
+        "latitude": 25.06311781423897,
+        "longitude": 121.51985950667323,
+        "description": "蔥溫玉牛丼\n\n炸雞\n\n青菜\n\n海瓜子味噌湯\n\n牛肉彩便當 外帶"
     }
 ]
