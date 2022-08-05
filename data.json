@@ -1275,7 +1275,7 @@
         "name": "無名韓國小吃",
         "latitude": 25.04481549407116,
         "longitude": 121.51597744899284,
-        "description": "魚板串\n\n白蘿蔔\n\n雜菜"
+        "description": "魚板串\n\n白蘿蔔\n\n雜菜\n\n蛋"
     },
     {
         "name": "SUKIYA 台北站前店",
@@ -1306,5 +1306,11 @@
         "latitude": 25.047613891464106,
         "longitude": 121.51741156107099,
         "description": "松阪豬\n\n糖醋肉"
+    },
+    {
+        "name": "富山天滿",
+        "latitude": 25.068779977839323,
+        "longitude": 121.51294415833843,
+        "description": "焦糖味噌牛心\n\n醬油磯煮鮑魚拉麵"
     }
 ]
