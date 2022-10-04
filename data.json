@@ -315,7 +315,7 @@
         "name": "愛弟豆花",
         "latitude": 25.0799824,
         "longitude": 121.54783,
-        "description": "冰檸檬花生豆花"
+        "description": "冰檸檬花生豆花 大杯 加 粉圓"
     },
     {
         "name": "御牛殿",
@@ -1414,5 +1414,11 @@
         "latitude": 25.065996521023237,
         "longitude": 121.51623054110442,
         "description": "紅燒鰻"
+    },
+    {
+        "name": "高雄黑輪大王",
+        "latitude": 25.079749803667333,
+        "longitude": 121.54687342888441,
+        "description": "蒟蒻\n\n湯 無限續"
     }
 ]
