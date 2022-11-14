@@ -463,8 +463,8 @@
     },
     {
         "name": "臺客炸雞",
-        "latitude": 25.056881,
-        "longitude": 121.516867,
+        "latitude": 25.056982703721864,
+        "longitude": 121.51618162888285,
         "description": "鹽酥雞\n\n章魚足"
     },
     {
@@ -732,12 +732,6 @@
         "description": "干貝燒鮭丼\n\nB1 台鐵捷運連通道"
     },
     {
-        "name": "時懿黃燜雞米飯 左營店",
-        "latitude": 22.687863,
-        "longitude": 120.309228,
-        "description": "經典黃燜雞"
-    },
-    {
         "name": "雪王冰淇淋",
         "latitude": 25.044233,
         "longitude": 121.510398,
@@ -750,7 +744,7 @@
         "description": "蛋包飯"
     },
     {
-        "name": "大鼎肉羹",
+        "name": "延三夜市 大鼎肉羹",
         "latitude": 25.064054,
         "longitude": 121.511187,
         "description": "蛋包飯\n\n海鮮湯\n\n蛋包蝦仁湯"
@@ -769,8 +763,8 @@
     },
     {
         "name": "延三溫體牛",
-        "latitude": 25.065324,
-        "longitude": 121.511003,
+        "latitude": 25.066047295989858,
+        "longitude": 121.51141526884118,
         "description": "牛肉燴飯\n\n清燉牛雜湯"
     },
     {
@@ -792,9 +786,9 @@
         "description": "蟹黃湯包\n\n椒鹽豆腐\n\n籠蒸高麗菜\n\n特製山東燒雞\n\n蔥烤鯽魚"
     },
     {
-        "name": "溢香園 旗艦店",
-        "latitude": 25.082270,
-        "longitude": 121.568703,
+        "name": "溢香園 成功店",
+        "latitude": 25.074209644160277,
+        "longitude": 121.60617936386214,
         "description": "清蒸臭豆腐\n\n寧式鱔糊\n\n醃篤鮮"
     },
     {
@@ -1054,12 +1048,6 @@
         "latitude": 25.05352955523391,
         "longitude": 121.51583506384812,
         "description": "脆皮鴨腿飯"
-    },
-    {
-        "name": "你鮮吃雞湯火鍋",
-        "latitude": 25.063520050828842,
-        "longitude": 121.51121844607152,
-        "description": "馬告雞\n\n蒜頭雞"
     },
     {
         "name": "藏壽司 中山南西店",
