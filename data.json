@@ -837,7 +837,7 @@
         "name": "寧夏夜市 天品滷味坊",
         "latitude": 25.056987,
         "longitude": 121.515455,
-        "description": "豬腳"
+        "description": "豬腳\n\n酸白菜"
     },
     {
         "name": "油豆腐細粉",
@@ -1462,5 +1462,11 @@
         "latitude": 25.05464772916689,
         "longitude": 121.51476794545091,
         "description": "滿漢牛肉麵\n\n滷牛筋"
+    },
+    {
+        "name": "小廚師獅子頭專賣店",
+        "latitude": 25.05694233704792,
+        "longitude": 121.51488367611817,
+        "description": "獅子頭"
     }
 ]
