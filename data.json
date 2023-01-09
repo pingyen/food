@@ -633,7 +633,7 @@
         "name": "黃大腸煎",
         "latitude": 25.0634881,
         "longitude": 121.511128,
-        "description": "燒雞腿"
+        "description": "大腸煎\n\n燒雞腿"
     },
     {
         "name": "延三夜市 東石鮮蚵",
@@ -1240,12 +1240,6 @@
         "latitude": 25.06216877047962,
         "longitude": 121.51119302888662,
         "description": "魚丸湯\n\n碗粿"
-    },
-    {
-        "name": "無名韓國小吃",
-        "latitude": 25.04481549407116,
-        "longitude": 121.51597744899284,
-        "description": "魚板串\n\n白蘿蔔\n\n雜菜\n\n蛋"
     },
     {
         "name": "SUKIYA 台北站前店",
