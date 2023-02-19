@@ -675,7 +675,7 @@
         "name": "台南鱔魚麵熱炒專家",
         "latitude": 25.0655766,
         "longitude": 121.5111457,
-        "description": "蛤仔湯\n\n高麗菜心\n\n沙茶牛肉"
+        "description": "蛤仔湯\n\n高麗菜心\n\n波菜\n\n沙茶牛肉"
     },
     {
         "name": "牛爺爺",
@@ -742,12 +742,6 @@
         "latitude": 25.065156,
         "longitude": 121.511121,
         "description": "蛋包飯"
-    },
-    {
-        "name": "延三夜市 大鼎肉羹",
-        "latitude": 25.064054,
-        "longitude": 121.511187,
-        "description": "蛋包飯\n\n海鮮湯\n\n蛋包蝦仁湯"
     },
     {
         "name": "大戶屋 台北凱撒店",
@@ -916,12 +910,6 @@
         "latitude": 25.044613,
         "longitude": 121.515326,
         "description": "蕃茄 蝦湯 牛筋牛腱 拉麵 刀削麵"
-    },
-    {
-        "name": "延三夜市 老翁家",
-        "latitude": 25.065113,
-        "longitude": 121.511005,
-        "description": "豬腿肉\n\n排骨四神湯"
     },
     {
         "name": "成都抄手麵食",
@@ -1113,7 +1101,7 @@
         "name": "雄嘉義雞肉飯",
         "latitude": 25.06567259078997,
         "longitude": 121.51115128118468,
-        "description": "高麗菜心\n\n金針排骨湯\n\n苦瓜排骨湯\n\n軟絲"
+        "description": "高麗菜苗\n\n金針排骨湯\n\n苦瓜排骨湯\n\n軟絲"
     },
     {
         "name": "天金小館",
