@@ -1492,5 +1492,11 @@
         "latitude": 24.959873217260007,
         "longitude": 121.5373151385693,
         "description": "海味豆腐煲\n\n脆皮蒜漬雞\n\n翠綠山泉鱸\n\n酒香燜上肉\n\n炒菠菜"
+    },
+    {
+        "name": "大鼎肉羹",
+        "latitude": 25.064054,
+        "longitude": 121.511187,
+        "description": "蛋包飯\n\n海鮮湯\n\n蛋包蝦仁湯"
     }
 ]
