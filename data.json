@@ -1389,7 +1389,7 @@
         "name": "新營豆花",
         "latitude": 25.065340924682065,
         "longitude": 121.51091537457546,
-        "description": "檸檬冰豆花"
+        "description": "檸檬冰豆花 大粉圓 愛玉"
     },
     {
         "name": "周胖子鮮果汁",
@@ -1504,5 +1504,17 @@
         "latitude": 25.044538815015052,
         "longitude": 121.51281019944474,
         "description": "腿庫便當"
+    },
+    {
+        "name": "延三夜市 老翁家",
+        "latitude": 25.065113,
+        "longitude": 121.511005,
+        "description": "豬腿肉\n\n排骨四神湯"
+    },
+    {
+        "name": "老麵店",
+        "latitude": 25.07037274347167,
+        "longitude": 121.51164413058616,
+        "description": "黑白切 滷豬肉\n\n乾麵"
     }
 ]
