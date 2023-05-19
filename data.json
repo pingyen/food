@@ -801,7 +801,7 @@
         "name": "寧夏夜市 天品滷味坊",
         "latitude": 25.056987,
         "longitude": 121.515455,
-        "description": "豬腳\n\n酸白菜"
+        "description": "蒟蒻\n\n酸白菜"
     },
     {
         "name": "油豆腐細粉",
@@ -1576,5 +1576,11 @@
         "latitude": 25.04492685872631,
         "longitude": 121.50947797053398,
         "description": "茶碗蒸\n\n炙燒赤蝦"
+    },
+    {
+        "name": "寧夏夜市 純鮮奶雞蛋糕",
+        "latitude": 25.056129114995986,
+        "longitude": 121.51536185824526,
+        "description": "原味"
     }
 ]
