@@ -3,7 +3,7 @@
         "name": "劉山東牛肉麵",
         "latitude": 25.045701,
         "longitude": 121.5137617,
-        "description": "清燉牛肉麵\n\n清燉半筋半肉麵\n\n豆干\n\n海帶\n\n建議下午前往"
+        "description": "清燉半筋半肉麵\n\n豆干\n\n海帶\n\n建議下午前往"
     },
     {
         "name": "德州美墨炸雞 京站店",
@@ -33,7 +33,7 @@
         "name": "源興御香屋",
         "latitude": 23.4797922,
         "longitude": 120.4492904,
-        "description": "葡萄柚綠茶\n\n紅鑽葡萄柚綠茶"
+        "description": "葡萄柚綠茶"
     },
     {
         "name": "張家清真牛肉麵",
@@ -63,7 +63,19 @@
         "name": "IKEA 新莊店",
         "latitude": 25.0415073,
         "longitude": 121.4652713,
-        "description": "牛豬肉丸\n\n豬肋排\n\n小龍蝦\n\n牛排\n\n豬膝\n\n戰斧豬排\n\n炸雞翅\n\n濃湯"
+        "description": "牛豬肉丸\n\n豬肋排\n\n牛排\n\n豬膝\n\n戰斧豬排\n\n炸雞翅\n\n濃湯"
+    },
+    {
+        "name": "IKEA 小巨蛋店",
+        "latitude": 25.052355619684764,
+        "longitude": 121.54847029583482,
+        "description": "牛豬肉丸\n\n豬肋排\n\n牛排\n\n豬膝\n\n戰斧豬排\n\n炸雞翅\n\n濃湯"
+    },
+    {
+        "name": "IKEA 新店店",
+        "latitude": 24.97263957786608,
+        "longitude": 121.53006632339499,
+        "description": "牛豬肉丸\n\n豬肋排\n\n牛排\n\n豬膝\n\n戰斧豬排\n\n炸雞翅\n\n濃湯"
     },
     {
         "name": "巧之味",
@@ -117,6 +129,12 @@
         "name": "北村豆腐家 統一時代台北店",
         "latitude": 25.0407037,
         "longitude": 121.5652818,
+        "description": "海陸嫩豆腐煲 牛"
+    },
+    {
+        "name": "北村豆腐家 新北土城日月光店",
+        "latitude": 24.978898194628975,
+        "longitude": 121.44389687630971,
         "description": "海陸嫩豆腐煲 牛"
     },
     {
@@ -393,7 +411,7 @@
         "name": "東榮 6 號 小巻、魩仔魚",
         "latitude": 25.1688251,
         "longitude": 121.4425736,
-        "description": "小管 大 含卵 半斤"
+        "description": "小管 大 含卵"
     },
     {
         "name": "涓豆腐 台北車站店",
@@ -600,12 +618,6 @@
         "description": "鍋燒意麵\n\n鮑魚海鮮粥\n\n煎蚵仔\n\n綜合煎\n\n綜合炒飯\n\n蛤仔湯\n\n炒空心菜\n\n炒高麗菜\n\n營業至晚上十點半"
     },
     {
-        "name": "老曹旺功夫銷魂麵鋪 新光南西店",
-        "latitude": 25.0527485,
-        "longitude": 121.5206836,
-        "description": "招牌功夫銷魂麵\n\n新光三越南西店三館 B1"
-    },
-    {
         "name": "hot 7 家樂福桂林店",
         "latitude": 25.037703,
         "longitude": 121.5061818,
@@ -682,12 +694,6 @@
         "latitude": 25.0460478,
         "longitude": 121.5170292,
         "description": "板腱牛 火焰 肉增量\n\nHOYII B1"
-    },
-    {
-        "name": "爭鮮外帶 北車店",
-        "latitude": 25.047702,
-        "longitude": 121.5173735,
-        "description": "干貝燒鮭丼\n\nB1 台鐵捷運連通道"
     },
     {
         "name": "雪王冰淇淋",
@@ -1002,6 +1008,12 @@
         "description": "烤田螺\n\n凱薩沙拉\n\n番茄蔬菜湯"
     },
     {
+        "name": "薩莉亞 台北館前店",
+        "latitude": 25.046138895221226,
+        "longitude": 121.51476199665312,
+        "description": "三樓\n\n烤田螺\n\n凱薩沙拉\n\n番茄蔬菜湯"
+    },
+    {
         "name": "林師傅日本料理",
         "latitude": 25.05834230669288,
         "longitude": 121.51114432610125,
@@ -1290,12 +1302,6 @@
         "description": "豬血湯 正常\n\n筍干\n\n白菜滷"
     },
     {
-        "name": "薩莉亞 台北館前店",
-        "latitude": 25.046138895221226,
-        "longitude": 121.51476199665312,
-        "description": "三樓\n\n烤田螺\n\n凱薩沙拉\n\n番茄蔬菜湯"
-    },
-    {
         "name": "娥嬤炖鰻",
         "latitude": 25.065996521023237,
         "longitude": 121.51623054110442,
@@ -1366,12 +1372,6 @@
         "latitude": 25.064707759709638,
         "longitude": 121.51107516787141,
         "description": "木瓜牛奶\n\n薑汁番茄盤"
-    },
-    {
-        "name": "賽門鄧普拉",
-        "latitude": 25.046387889969232,
-        "longitude": 121.50743809939726,
-        "description": "招牌甜不辣\n\n湯 無限續"
     },
     {
         "name": "飄香牛肉麵",
@@ -1462,12 +1462,6 @@
         "latitude": 25.064054,
         "longitude": 121.511187,
         "description": "蛋包飯\n\n海鮮湯\n\n蛋包蝦仁湯"
-    },
-    {
-        "name": "強記雞肉飯",
-        "latitude": 25.044538815015052,
-        "longitude": 121.51281019944474,
-        "description": "腿庫便當"
     },
     {
         "name": "延三夜市 老翁家",
@@ -1647,7 +1641,7 @@
         "name": "禾舍日式炭烤",
         "latitude": 25.039555655229826,
         "longitude": 121.46186313566673,
-        "description": "牛舌 優選\n\n草蝦\n\n蟹膏生帆貝\n\n雞肉串"
+        "description": "牛舌 優選\n\n草蝦\n\n蟹膏生帆貝\n\n雞肉串\n\n墨魚香腸"
     },
     {
         "name": "東北金小館 重慶店",
@@ -1660,5 +1654,17 @@
         "latitude": 24.974675524313433,
         "longitude": 121.44041582065817,
         "description": "薑爆澎湖小卷\n\n蛤仔味噌湯"
+    },
+    {
+        "name": "DM 雞排 嘉義店",
+        "latitude": 23.482946569969798,
+        "longitude": 120.43614139921709,
+        "description": "鹽酥雞"
+    },
+    {
+        "name": "秋銘海產",
+        "latitude": 23.482644462353836,
+        "longitude": 120.43647524815812,
+        "description": "娃娃菜"
     }
 ]
