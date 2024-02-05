@@ -1708,5 +1708,11 @@
         "latitude": 25.0584026,
         "longitude": 121.5189949,
         "description": "桂竹筍"
+    },
+    {
+        "name": "老王記牛肉麵",
+	"latitude": 25.04166852256129,
+	"longitude": 121.5105421891488,
+	"description": "牛肉麵 清燉 加酸菜"
     }
 ]
